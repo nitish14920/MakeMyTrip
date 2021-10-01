@@ -1,11 +1,11 @@
-import {Flight} from './Components/Flight/Flight'
-import './App.css';
-import { Review } from './Components/Booking/Review';
+import "./App.css";
+
+import { Routes } from "./Routes/Routes";
 
 function App() {
   return (
     <div className="App">
-     <Review/>
+      <Routes />
     </div>
   );
 }
