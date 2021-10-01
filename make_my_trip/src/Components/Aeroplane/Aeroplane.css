@@ -1,0 +1,6 @@
+.aeroplane-trip-types {
+  display: flex;
+  gap: 25rem;
+  padding: 0.2rem;
+  margin: 0 0 0 4.5rem;
+}
