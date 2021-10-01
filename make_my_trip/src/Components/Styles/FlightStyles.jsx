@@ -31,7 +31,6 @@ height: 46px;
     padding: 4px 9px;
     text-transform: capitalize;
 }
-
 `
 export const SearchBox = styled.div`
 display: flex;
@@ -52,6 +51,25 @@ height: 200px;
     border-radius: 50px;
     background-color: #2d86f8;
     margin-left: 20px;
+}
+& .searchInput,.selectInput{
+    color: white;
+    padding: 5px;
+    pointer-events: visible;
+}
+& .selectInput{
+    color: white;
+    background-color: #1e2c39;
+    border: none;
+    border-radius: 4px;
+    padding-top:2px;
+    & option{
+        border: none;
+        background-color: white;
+        color: gray;
+        border-radius: 4px;
+    }
+        
 }
 `
 
@@ -75,8 +93,12 @@ background-color:white;
     font-size: 14px;
     
     font-weight: 400;
-    color: rgba(0,0,0,.85);
+    color: #262626;
+    
 }
+& .popularSection h3{
+        color: #262626;
+    }
 & .checkBox{
         cursor: pointer;
         width: 20px;
@@ -90,6 +112,25 @@ background-color:white;
     margin-left: 3px;
     margin-top: 2px;
     
+}
+& .filterBox{
+    width: 60px;
+    height: 65px;
+    border: 1px solid #838383;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    font-size: 10px;
+    text-align: center;
+    justify-content: end;
+    margin-right: 10px;
+    & > span{
+        margin-bottom: 5px;
+    }
+    & > img{
+        width: 30px;
+        margin-left: 13px;
+    }
 }
 
 `
