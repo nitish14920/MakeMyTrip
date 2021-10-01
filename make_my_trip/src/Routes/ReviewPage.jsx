@@ -1,4 +1,5 @@
 
+import { Review } from "../Components/Booking/Review"
 import { ReviewBookingHeader } from "../Components/ReviewBookingHeader"
 
 export const ReviewBooking= ()=>{
@@ -6,6 +7,7 @@ export const ReviewBooking= ()=>{
         <div>
 
      <ReviewBookingHeader/>
+     <Review/>
         </div>
     )
 }

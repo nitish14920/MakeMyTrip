@@ -6,6 +6,8 @@
 export const Home =()=>{
 
     return (
-        <div></div>
+        <div>
+            homepage
+        </div>
     )
 }
