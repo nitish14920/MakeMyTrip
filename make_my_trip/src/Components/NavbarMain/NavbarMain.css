@@ -1,0 +1,19 @@
+.Header {
+  background-color: #061525;
+  height: 5rem;
+  margin: 0 auto;
+}
+
+.logoImage {
+  height: "40px";
+  width: "100px";
+}
+
+.test {
+  background-image: url(//imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/landingSprite@13x.webp);
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 200px 600px;
+  font-size: 0px;
+  flex-shrink: 0;
+}

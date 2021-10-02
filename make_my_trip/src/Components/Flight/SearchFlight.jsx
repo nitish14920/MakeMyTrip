@@ -1,4 +1,4 @@
-import { InputDIv, SearchBox } from "../Styles/FlightStyles";
+import { InputDIv, SearchBox } from "./FlightStyles";
 
 
 export function SearchFlight(){
