@@ -10,7 +10,7 @@ import { ReviewBooking } from "./ReviewPage";
 export const Routes = () => {
   return (
     <Switch>
-      <Route path="/">
+      <Route exact path="/">
         <Home />
       </Route>
       
