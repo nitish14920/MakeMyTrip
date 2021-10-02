@@ -1,0 +1,17 @@
+.fourth {
+  width: 100vw;
+  height: 20vh;
+  background: black;
+  display: grid;
+  grid-template-columns: 45% 45%;
+  border: 1px solid black;
+  color: white;
+}
+.left {
+  display: flex;
+  color: white;
+}
+.right {
+  display: flex;
+  color: white;
+}

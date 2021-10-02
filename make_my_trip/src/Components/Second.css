@@ -1,0 +1,10 @@
+.Second {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.text {
+  display: flex;
+  margin-left: 20px;
+}
