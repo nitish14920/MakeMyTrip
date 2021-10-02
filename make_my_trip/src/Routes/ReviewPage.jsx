@@ -1,6 +1,6 @@
 
 import { Review } from "../Components/Booking/Review"
-import { ReviewBookingHeader } from "../Components/ReviewBookingHeader"
+import { ReviewBookingHeader } from "../Components/Booking/ReviewBookingHeader"
 
 export const ReviewBooking= ()=>{
     return (

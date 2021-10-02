@@ -1,0 +1,67 @@
+fontwght {
+  font-weight: bolder;
+  font-size: 20px;
+}
+.subPhotos {
+  width: 100vw;
+  height: 30vh;
+}
+.border {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin: 5px;
+}
+.hdiv {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+.photos {
+  display: flex;
+  width: 97vw;
+  height: 55vh;
+  margin: 10px;
+  justify-content: space-evenly;
+  flex-direction: row;
+  box-shadow: 0 1px 7px 0 rgb(0 0 0 / 20%);
+  border-radius: 7px;
+  background: #fff;
+}
+.subblockcss {
+  height: 120px;
+  width: 170px;
+  display: flex;
+}
+.subblock {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  width: 33.3vw;
+  flex-direction: column;
+  box-shadow: 0 1px 7px 0 rgb(0 0 0 / 20%);
+}
+.block {
+  display: flex;
+  flex-direction: row;
+
+  width: 97vw;
+  height: 33.3vh;
+  margin: 5px;
+}
+.travel {
+  background: #fff;
+  height: 52vh;
+  width: 97vw;
+  border-radius: 7px;
+
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  box-shadow: 0 1px 7px 0 rgb(0 0 0 / 20%);
+  margin: 10px;
+}
+.First {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,4 +1,4 @@
-import { FilterSection, FlightBody, FlightMainDiv, FlightsAvailable } from "../Styles/FlightStyles";
+import { FilterSection, FlightBody, FlightMainDiv, FlightsAvailable } from "./FlightStyles";
 import { FlightDetails } from "./FlightDetails";
 import { Filters } from "./PopularFilters";
 import { SearchFlight } from "./SearchFlight";

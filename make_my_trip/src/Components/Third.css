@@ -1,0 +1,8 @@
+.Third {
+  width: 94.9vw;
+  height: 42vh;
+  display: grid;
+  grid-template-columns: 45% 45%;
+  grid-template-rows: 45% 45%;
+  grid-gap: 5%;
+}
