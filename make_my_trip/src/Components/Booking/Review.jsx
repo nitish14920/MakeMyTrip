@@ -1,4 +1,4 @@
-import { ReviewMainDiv } from "../Styles/ReviewStyles"
+import { ReviewMainDiv } from "./ReviewStyles"
 import { BookingFlightDetails } from "./BookingFlightDetails"
 export function Review(){
 

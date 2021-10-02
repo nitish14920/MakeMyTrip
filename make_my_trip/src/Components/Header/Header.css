@@ -1,0 +1,35 @@
+.header-main {
+  display: flex;
+  justify-content: space-around;
+  background-color: #061526;
+  color: white;
+  padding-top: 5px;
+  height: 5rem;
+}
+.header-mybiz,
+.header-mytrips {
+  display: flex;
+}
+.header-img-1 {
+  margin-right: 200px;
+}
+.header-mybiz-1,
+.header-mytrips-1 {
+  font-size: 14px;
+  font-weight: 650;
+}
+.header-mybiz-2 {
+  color: #fff;
+  font-size: 10px;
+  line-height: 10px;
+}
+.header-mytrips-1 {
+  font-size: 14px;
+  font-weight: 650;
+}
+
+.header-mytrips-2 {
+  color: #c2c2c2;
+  font-size: 10px;
+  line-height: 10px;
+}
