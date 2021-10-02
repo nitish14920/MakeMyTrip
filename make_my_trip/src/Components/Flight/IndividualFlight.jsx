@@ -1,5 +1,5 @@
-import { IndFlight } from "./IndividualFlightStyles";
-
+import { IndFlight } from "../Styles/IndividualFlightStyles";
+import {Link} from 'react-router-dom'
 export function IndividualFlight(){
    
 
@@ -20,6 +20,7 @@ export function IndividualFlight(){
                 <p>Bengaluru</p>
             </div>
             <h3 className="lineHeight">7422</h3>
+            <Link to="/review"><button>Book Now</button></Link>
         </IndFlight>
     )
 }

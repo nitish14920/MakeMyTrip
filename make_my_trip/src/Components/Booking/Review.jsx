@@ -12,9 +12,7 @@ export function Review(){
     return (
 
         <ReviewMainDiv>
-            <div className="head">
-                <h2>Review your booking</h2>
-            </div>
+            
             <div className="itinerary">
                 <h2>Itinerary</h2>
                 
@@ -76,6 +74,66 @@ export function Review(){
                 </div>
                 
             </div>
+            <div className="donation">
+                <div>
+                    <input type="checkbox" name="" id="" />
+                    <h2>Donate 10 for COVID-19 Relief and Other Charity Initiatives</h2>
+                    <a href="">Terms & Conditions</a>
+                </div>
+                <div>
+                    <div>
+                        <img src="https://imgak.mmtcdn.com/flights/assets/media/dt/review/charity_covid.png" alt="img" />
+                        <div>
+                            <p>Support COVID-19 relief work and safty initiatives.</p>
+                            <a href="">Know More</a>
+                        </div>
+                        
+                    </div>
+                    <div>
+                        <img src="https://imgak.mmtcdn.com/flights/assets/media/dt/review/charity_1.png?v=1" alt="img" />
+                        <div>
+                            <p>Support COVID-19 relief work and safty initiatives.</p>
+                            <a href="">Know More</a>
+                        </div>
+                        
+                    </div>
+                    <div>
+                        <img src="https://imgak.mmtcdn.com/flights/assets/media/dt/review/charity_2.png?v=1" alt="img" />
+                        <div>
+                            <p>Support COVID-19 relief work and safty initiatives.</p>
+                            <a href="">Know More</a>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div className="fare">
+                <div>
+                    <h3>Base Fare</h3>
+                    <p>Adult(s)(1X 6623)</p>
+                    <h3 className="basefareprice">7422</h3>
+                </div>
+                <div>
+                    <h3>Fee & Surcharge</h3>
+                    <h3>7422</h3>
+                </div>
+                <div>
+                    <h2>Total Amount</h2> 
+                    <h2>7422</h2>    
+                </div>
+            </div>
+            <div className="cancellation">
+                <h5>Cancellation & Date change charges</h5>
+                <div>
+                    <div>
+                        <h6>Cancellation Fees Apply</h6>
+                        <p>A penalty of upto 3800 will be charged by the airline & by MMT based on how close to the departure date you cancel.</p>
+                    </div>
+                    <span>3622</span>
+                </div>
+                <a href="">VIEW POLICY</a>
+            </div>
+            <div className="continue">Continue</div>
         </ReviewMainDiv>
     )
 }

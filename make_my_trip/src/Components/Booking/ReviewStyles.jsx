@@ -14,8 +14,13 @@ height: 100vh;
     padding-left:50px;
 }
 & .itinerary{
+
     & > :first-child{
+        margin: 0px;
         margin-left: 50px;
+        padding: 15px;
+        padding-left: 0px;
+        
     }
     & > :nth-child(2){
         border-top-left-radius: 10px;
@@ -101,9 +106,11 @@ height: 100vh;
     }
 }
 & .raw3{
-    height: 25vh;
+    height: 30vh;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
+    display: flex;
+    flex-direction: column;
     & > :first-child{
         display: flex;
         justify-content: flex-start;
@@ -127,9 +134,10 @@ height: 100vh;
         width: 62.5vw;
         border: 1px solid gray;
         border-radius: 10px;
-        position: absolute;
-        left: 65px;
-        top:62vh;
+        position: relative;
+        top: -15%;
+        margin-left: 10px;
+    
         & img{
             height: 35px;
             width: 30px;
@@ -167,5 +175,164 @@ height: 100vh;
             color: white;
         }
     }
+
+}
+
+
+//-------------------Donation------------------------------//
+
+
+
+& .donation{
+    width: 63.7vw;
+    position: relative;
+    top: 20px;
+    margin-left: 50px;
+    background-color: white;
+    border-radius: 10px;
+    padding:10px;
+    & :first-child{
+        display: flex;
+
+        & > h2{
+            margin: 0px;
+            margin-right: 30px;
+        }
+        & input{
+            margin: 5px 8px 0px;
+        }
+    }
+    &> :nth-child(2){
+        display: flex;
+        margin-top: 10px;
+        & > div{
+            display: flex;
+            width: 200px;
+            border:1px #e0e0e0 solid;
+            margin-left: 50px;
+            border-radius: 5px;
+            box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+            padding: 10px;
+            & >img{
+                margin-top: 10px;
+                height: 40px;
+                border-radius: 5px;
+            }
+            &>:nth-child(2){
+            display: flex;
+            flex-direction: column;
+            font-size: 15px;
+            & > p{
+                margin: 0px;
+            }
+            & > a{
+                font-size: 10px;
+                color:#26a0ff ;
+                text-decoration: none;
+            }
+        }
+        }
+        
+    }
+}
+
+& .fare{
+    background-color: white;
+    width: 320px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 20vh;
+    right: 50px;
+    text-align: left;
+    padding:10px;
+    &  h2,p,h3{
+        margin: 0px;
+    }
+    & :nth-child(3){
+        display: flex;
+        & :first-child{
+            margin-right: 120px;
+        }
+    }
+    &> :nth-child(1){
+        border-bottom: #686868 1px solid;
+        height: 70px;
+        & p{
+            font-size: 14px;
+            margin: 10px;
+        }
+        & h3{
+            margin: 10px;
+        }
+        & .basefareprice{
+            position: relative;
+            bottom: 40px;
+            left: 240px;
+        }
+    }
+    &>:nth-child(2){
+        border-bottom: #686868 1px solid;
+        display: flex;
+        & h3{
+            margin: 10px;
+        }
+        & :first-child{
+            margin-right: 100px;
+        }
+    }
+    &>:nth-child(3){
+        
+        & h2{
+            margin: 10px;
+        }
+    }
+}
+& .cancellation{
+    background-color: white;
+    width: 320px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 50vh;
+    right: 50px;
+    text-align: left;
+    padding:10px;
+    & h5,h6,p{
+        margin: 5px;
+    }
+    & > div{
+        display: flex;
+    }
+    & > div p{
+        font-size: 13px;
+    }
+    & >div >span{
+        margin-top: 20px;
+        font-weight: 700;
+        color: #686767;
+    }
+    & > a{
+        font-size: 13px;
+        margin-left: 10px;
+        color:#26a0ff ;
+        text-decoration: none;
+    }
+    & h6{
+        color: #39a6ba;
+    }
+}
+& .continue{
+    height: 40px;
+    width: 150px;
+    background-color:#26a0ff ;
+    position: relative;
+    left: 50px;
+    top: 30px;
+    border-radius: 20px;
+    color: white;
+    line-height: 35px;
 }
 `
