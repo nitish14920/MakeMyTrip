@@ -4,13 +4,14 @@ import { BookingDetails } from "../Components/TravelAddOn/BookingDetails";
 import { TravelAndAddOnn } from "../Components/TravelAddOn/TravelAndAddonn";
 import { Popup } from "../Components/TravelAddOn/PopupReview";
 
-export const BookingPage = () => {
+export const AfterBookingPage = () => {
   return (
     <div>
       <TravelAndAddOnn />
       <ContactForm />
       <Form/>
       <BookingDetails/>
+      <Popup/>
      {" "}
     </div>
   );
