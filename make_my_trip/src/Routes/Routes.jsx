@@ -7,6 +7,7 @@ import { BookingPage } from "./BookingPage";
 import { Home } from "./Home";
 import { ReviewBooking } from "./ReviewPage";
 import { AfterBookingPage } from "./AfterBookingReview";
+import { Payment } from "./PaymentPage";
 
 export const Routes = () => {
   return (
@@ -31,7 +32,7 @@ export const Routes = () => {
       </Route>
 
       <Route path="/payment">
-        
+        <Payment/>
       </Route>
 
       <Route>Error Page Not Found</Route>
