@@ -1,5 +1,6 @@
-import { ContactForm } from "../Components/Contact";
-import { TravelAndAddOnn } from "../Components/TravelAndAddonn";
+import {ContactForm} from "../Components/TravelAddOn/Contact"
+
+import { TravelAndAddOnn } from "../Components/TravelAddOn/TravelAndAddonn";
 
 export const BookingPage = () => {
   return (

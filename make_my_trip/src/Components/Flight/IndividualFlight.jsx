@@ -1,4 +1,4 @@
-import { IndFlight } from "../Styles/IndividualFlightStyles";
+import { IndFlight } from "./IndividualFlightStyles";
 
 export function IndividualFlight(){
    
