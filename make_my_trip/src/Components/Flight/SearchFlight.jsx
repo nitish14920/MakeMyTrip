@@ -16,24 +16,24 @@ export function SearchFlight(){
            
            <InputDIv >
                 <span>From</span>
-                <input className="searchInput" type="text" name="" />
+                <input className="searchInput" type="text" name="" placeholder="New Delhi" />
            </InputDIv>
            <i class="fas fa-exchange-alt"></i>
            <InputDIv>
                 <span>To</span>
-                <input className="searchInput" type="text" name="" />
+                <input className="searchInput" type="text" name="" placeholder="Bengaluru"/>
            </InputDIv>
            <InputDIv>
                 <span>DEPART</span>
-                <input className="searchInput" type="text" name="" />
+                <input className="searchInput" type="text" name="" placeholder="Sun,Oct 3,2021"/>
            </InputDIv>
            <InputDIv>
                 <span>RETURN</span>
-                <input className="searchInput" type="text" name="" />
+                <input className="searchInput" type="text" name="" placeholder=""/>
            </InputDIv>
            <InputDIv>
                 <span>PASSENGERS & CLASS</span>
-                <input className="searchInput" type="text" name="" />
+                <input className="searchInput" type="text" name="" placeholder="1 Adult,Economy"/>
            </InputDIv>
            <button>SEARCH</button>
         </SearchBox>

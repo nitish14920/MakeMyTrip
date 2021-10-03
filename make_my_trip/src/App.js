@@ -1,6 +1,7 @@
-import "./App.css";
 
-import { Routes } from "./Routes/Routes";
+
+import './App.css';
+import { Routes } from './Routes/Routes';
 
 
 function App() {

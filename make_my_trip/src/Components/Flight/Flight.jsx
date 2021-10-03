@@ -2,9 +2,37 @@ import { FilterSection, FlightBody, FlightMainDiv, FlightsAvailable } from "./Fl
 import { FlightDetails } from "./FlightDetails";
 import { Filters } from "./PopularFilters";
 import { SearchFlight } from "./SearchFlight";
-
+import { useEffect,useState } from "react";
+import axios from "axios"
 
 export function Flight(){
+    const [flights, setFlights] = useState([])
+    const [initial, setInitial] = useState([])
+    const [airports,setAirport] = useState([])
+    
+    const vistaraFilter = (e)=>{
+        const vistara = initial.filter(word => word.title == "Vistara");
+
+        setFlights(vistara)
+    }
+    const gofirstFilter = ()=>{
+        const gofirst = initial.filter(word => word.title == "Go First");
+        setFlights(gofirst)
+    }
+    useEffect(()=>{
+        axios.get("http://localhost:3002/flights").then((res)=>{
+        console.log(res.data)
+        setFlights(res.data)
+        setInitial(res.data)
+    })
+    axios.get("http://localhost:3002/airports").then((res)=>{
+        console.log(res.data)
+        setAirport(res.data)
+        
+    })
+    },[])
+
+    
 
     const filterBoxData = [
         {t:"6 AM",p:"7524",img:"https://imgak.mmtcdn.com/flights/assets/media/dt/listing/left-filters/morning_inactive.png?v=1"},
@@ -17,7 +45,9 @@ export function Flight(){
             <SearchFlight></SearchFlight>
             <FlightBody>
                 <FilterSection>
-                    <Filters status={true} title="Popular Filters" data ={["Refundable Fare","Indigo","Non Stop","Vistara"]}></Filters>
+                    <div className="vista" onClick={vistaraFilter} ></div>
+                    <div className="gofir" onClick={gofirstFilter} style={{width:"20px",height:"17px",backgroundColor:"white",position:"relative",top:"80px",left:"1px",}}></div>
+                    <Filters status={true} title="Popular Filters" data ={["Go First","Indigo","Non Stop","Vistara"]}></Filters>
                     <Filters status={true} title="Stops From New Delhi" data ={["1 Stop","Non Stop"]}></Filters>
                     <Filters status={false} title="Departure From New Delhi" data ={filterBoxData}></Filters>
                     <Filters status={true} title="AirLines" data ={["Air India","Air Asia","Go First","IndiGo","Spicejet","Vistara"]}></Filters>
@@ -25,12 +55,8 @@ export function Flight(){
                 </FilterSection>
                 <FlightsAvailable>
                     <h2>Flights from New Delhi to Bengaluru</h2>
-                    <div className="add"></div>
-                    <div className="dateWindow">
-                        <div className="dates"></div>
-                        <div className="sortedBy"></div>
-                    </div>
-                    <FlightDetails/>
+                    
+                    <FlightDetails flights ={flights} airports ={ airports}/>
                 </FlightsAvailable>
             </FlightBody>
         </FlightMainDiv>
