@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(224, 224, 224);
+}
+
+.bookingDiv {
+  min-height: 40px;
+  padding: 15px 32px;
+  background: white;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+  color: black;
+  border-radius: 10px;
+  width: 41%;
+  margin-left: 18.7%;
+  margin-top: 1%;
+  text-align: left;
+}
+.continue {
+  background: linear-gradient(95deg, #53b2fe, #065af3) !important;
+  border-radius: 96px !important;
+  color: #fff !important;
+  font-size: 14px !important;
+  line-height: 32px !important;
+  height: 34px !important;
+  padding: 0 20px !important;
+  text-align: center !important;
+  font-weight: 700 !important;
+  outline: 0 !important;
+  border: 0;
+  width: 200px;
+}
+.covidButton {
+  width: 90px;
+  height: 40px;
+  border: 1px solid #008cff;
+  border-radius: 25px;
+  background: none;
+  color: #008cff;
+}
+.covid {
+  padding: 2%;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+  border-radius: 5px;
+}
+.flexing {
+  display: flex;
+  justify-content: left;
+}
+input {
+  border-radius: 5px;
+  border: 0.5px solid gray;
+}
+
