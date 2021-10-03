@@ -1,3 +1,4 @@
+import { PaymentSection } from "../Components/PaymentPage/Payment"
 
 
 
@@ -5,6 +6,6 @@ export const Payment=()=>{
     return (
 
 
-        <div>Payment Page</div>
+        <div><PaymentSection/></div>
     )
 }

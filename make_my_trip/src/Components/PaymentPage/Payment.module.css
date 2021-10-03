@@ -1,0 +1,276 @@
+.header {
+  height: 180px;
+  background-image: linear-gradient(to top, #15457b, #051423);
+  padding: 15px 0 0 0;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  width: 100%;
+  font-size: 12px;
+  font-weight: 900;
+}
+.safe {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  background-size: 242px 300px;
+  display: block;
+  width: 15px;
+  height: 16px;
+  background-position: -86px -62px;
+}
+body {
+  background-color: rgb(224, 224, 224);
+}
+
+.bookingDiv {
+  min-height: 40px;
+  padding: 15px 32px;
+  background: white;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+  color: black;
+  border-radius: 10px;
+  width: 41%;
+  margin-left: 18.7%;
+  margin-top: 1%;
+  text-align: left;
+}
+.continue {
+  background: linear-gradient(95deg, #53b2fe, #065af3) !important;
+  border-radius: 96px !important;
+  color: #fff !important;
+  font-size: 14px !important;
+  line-height: 32px !important;
+  height: 34px !important;
+  padding: 0 20px !important;
+  text-align: center !important;
+  font-weight: 700 !important;
+  outline: 0 !important;
+  border: 0;
+  width: 200px;
+}
+.covidButton {
+  width: 90px;
+  height: 40px;
+  border: 1px solid #008cff;
+  border-radius: 25px;
+  background: none;
+  color: #008cff;
+}
+.covid {
+  padding: 2%;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+  border-radius: 5px;
+}
+.flexing {
+  display: flex;
+  justify-content: left;
+}
+input {
+  border-radius: 5px;
+  border: 0.5px solid gray;
+}
+.upiImage {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  width: 16px;
+  height: 23px;
+  background-position: -48px -114px;
+  background-size: 242px 300px;
+  display: block;
+}
+
+.creditCard {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  width: 23px;
+  height: 16px;
+  background-position: -29px -88px;
+  background-size: 242px 300px;
+  display: block;
+}
+.payLater {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  width: 24px;
+  height: 18px;
+  background-position: -81px -87px;
+  background-size: 242px 300px;
+  display: block;
+}
+.netBanking {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  width: 21px;
+  height: 18px;
+  background-position: -184px -87px;
+  background-size: 242px 300px;
+  display: block;
+}
+.tripMoney {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  width: 24px;
+  height: 23px;
+  background-position: -158px -87px;
+  background-size: 242px 300px;
+  display: block;
+}
+.verify {
+  border: none;
+
+  outline: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-image: linear-gradient(96deg, #53b2fe, #065af3);
+  color: #fff;
+  box-shadow: 0 1px 7px 0 rgb(0 0 0 / 20%);
+  border-radius: 96px;
+}
+
+.view {
+  border: none;
+
+  outline: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+ background: transparent;
+  color: blue;
+
+}
+.secure {
+  border-radius: 10px;
+  border: solid 1px #33d18f;
+  background-color: #f1f8f5;
+  padding: 0 12px 12px;
+  position: relative;
+}
+.covidBox{
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 3px 30px 0 rgb(0 0 0 / 10%);
+  background-color: #c1f1dd;
+  color: #42b686;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  width: fit-content;
+  padding: 5px 8px;
+  align-self: center;
+  font-size: 8px;
+  margin: 0 auto 5px;
+  font-weight: 800;
+}
+.EMI {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  width: 23px;
+  height: 22px;
+  background-position: -131px -86px;
+  background-size: 242px 300px;
+  display: block;
+}
+.googlePay {
+  background: url(https://jsak.mmtcdn.com/payment-ui-service/images/bank_logos/gpay.png)
+    no-repeat;
+  width: 16px;
+  height: 23px;
+
+  background-size: 16px 23px;
+  display: block;
+}
+.paymentUPI {
+  color: black;
+  background: white;
+  height: fit-content;
+}
+.options {
+  border: 0.5px solid rgb(182, 180, 180);
+  height: fit-content;
+  background: rgb(229, 238, 244);
+  font-weight: bolder;
+  font-size: 12px;
+  padding-right: 10%;
+}
+.options > p {
+  margin-top: 1% !important;
+}
+.options:hover {
+  background: white;
+  border: none;
+}
+.TripDiv {
+  text-align: left;
+  background: white;
+  min-height: 40px;
+  padding: 0px 27px;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+  color: black;
+  border-radius: 10px;
+  width: 100%;
+  margin-left: 45%;
+}
+.LoginDiv {
+  display: flex;
+  background-color: rgb(215, 241, 255);
+  min-height: 10px;
+  padding: 0px 27px;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+  color: black;
+  border-radius: 10px;
+  width: 100%;
+
+  margin-left: 45%;
+}
+.LoginImg {
+  margin-top: 0%;
+}
+.LoginP {
+  width: 60%;
+  margin-top: 0%;
+  color: black !important;
+}
+h2 {
+  text-align: left;
+  margin-left: 45%;
+  font-size: larger;
+}
+.LoginSpan {
+  margin-top: -10%;
+}
+.LoginBtn {
+  margin-left: -30%;
+  color: blue;
+
+  margin-top: 4%;
+  right: 10px;
+  background-position: -90px -368px;
+}
+.FareSection {
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 15%);
+  color: #454545;
+  width: 400px;
+  margin-left: 40%;
+}
+.FareSummary {
+  border-bottom: 1px solid #f0f0f0;
+  box-sizing: border-box;
+}
+.FareSummary div {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.logo {
+  background: url(//jsak.mmtcdn.com/payment-ui-service/pwa_v3/pwa_payments/images/paymentSpriteDT.92ae37bb.png)
+    no-repeat;
+  width: 113px;
+  height: 36px;
+  background-position: -5px -147px;
+  background-size: 242px 300px;
+  display: block;
+}
