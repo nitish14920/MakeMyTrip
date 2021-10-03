@@ -11,16 +11,16 @@ import {
 export const ContactForm = () => {
   return (
     <>
-      <div style={{ display: "flex", flexGrow: "3" }}>
+      <div className={styles.flightSummary} style={{ display: "flex", flexGrow: "3" }}>
         <div>
           <div>
             <h2>Flight Summary</h2>
           </div>
           <div className={styles.TripDiv}>
             <div>
-              <h3>New Delhi-Mumbai</h3>
+              <h3>New Delhi-Bangalore</h3>
               <p style={{ marginTop: "-8%", color: "black" }}>
-                Departure Tue, 5 Oct
+                Departure Fri, 1 Oct
               </p>
             </div>
             <div style={{ display: "flex", justifyContent: "space-between" }}>

@@ -171,29 +171,58 @@ export const PaymentSection = () => {
               <p style={{ marginTop: "-1%", marginLeft: "15%" }}>GooglePay</p>
             </div>
           </div>
-          <div style={{width:"70%"}} >
-            <div style={{marginTop:"10%",width:"95%", height:"180px",borderRadius:"10px", border:"1px solid rgb(224,224,224)"}}>
+          <div style={{ width: "70%" }}>
+            <div
+              style={{
+                marginTop: "10%",
+                width: "95%",
+                height: "180px",
+                borderRadius: "10px",
+                border: "1px solid rgb(224,224,224)",
+              }}
+            >
               <span className={styles.googlePay}></span>
               <p>Enter UPI ID</p>
-              <form style={{display:"inline-block"}}>
-              <input placeholder="userName@UPI"/>
-       <Link to="/afterpayment">       <input className={styles.verify} type="submit" value="VERIFY & PAY"/>
-   </Link>           </form>
-
-            </div>
-            <div className={styles.secure} style={{marginTop:"10%", padding:"4%",borderRadius:"10px", marginRight:"5%", border:"1px solid rgb(224,224,224)"}}>
-         <p className={styles.covidBox}>COVID INSURANCE</p>
-              <p>Strengthen your safety with COVID insurance of Rs.2,00,000 for
-                hospitalization (new strain covered). Validity 16 days from trip
-                date. TnC Apply</p>
-              <form style={{display:"flex", justifyContent:"space-between"}}>
-              <input className={styles.view} type="submit" value="View All Benefits"/>
-              <input className={styles.view} type="submit" value="ADD +"/>
+              <form style={{ display: "inline-block" }}>
+                <input placeholder="userName@UPI" />
+                <Link to="/afterpayment">
+                  {" "}
+                  <input
+                    className={styles.verify}
+                    type="submit"
+                    value="VERIFY & PAY"
+                  />
+                </Link>{" "}
               </form>
-
+            </div>
+            <div
+              className={styles.secure}
+              style={{
+                marginTop: "10%",
+                padding: "4%",
+                borderRadius: "10px",
+                marginRight: "5%",
+                border: "1px solid rgb(224,224,224)",
+              }}
+            >
+              <p className={styles.covidBox}>COVID INSURANCE</p>
+              <p>
+                Strengthen your safety with COVID insurance of Rs.2,00,000 for
+                hospitalization (new strain covered). Validity 16 days from trip
+                date. TnC Apply
+              </p>
+              <form
+                style={{ display: "flex", justifyContent: "space-between" }}
+              >
+                <input
+                  className={styles.view}
+                  type="submit"
+                  value="View All Benefits"
+                />
+                <input className={styles.view} type="submit" value="ADD +" />
+              </form>
             </div>
           </div>
-         
         </div>{" "}
         <div style={{ flexGrow: "1" }}>
           <h2>Fare Summary</h2>
@@ -213,7 +242,7 @@ export const PaymentSection = () => {
                     </span>
                     <span>Base Fare</span>
                   </p>
-                  <span>₹ 4,713</span>
+                  <span>₹ 6,713</span>
                 </div>
               </div>
               <div className={styles.FareSummary}>
@@ -260,13 +289,13 @@ export const PaymentSection = () => {
                 </span>
 
                 <span style={{ fontWeight: "bolder", marginRight: "3%" }}>
-                  ₹ 5,506
+                  ₹7,422
                 </span>
               </div>
             </div>
           </div>
         </div>
       </div>
-   </div>
+    </div>
   );
 };

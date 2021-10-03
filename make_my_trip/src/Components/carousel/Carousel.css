@@ -1,8 +1,20 @@
 .CarouselApp {
   font-family: sans-serif;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
+  /* align-items: center;
+  justify-content: center; */
+
   background-color: #f2f2f2;
+  margin-top: -271px;
+  padding-top: 140px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.carousel-img {
+  margin-left: -140px;
+}
+.carousel-story {
+  color: black;
+  font-size: 15px;
 }

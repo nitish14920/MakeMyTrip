@@ -1,16 +1,16 @@
 // import logo from './mmtLogoWhite.png'
 import React from 'react'
-import './NavbarMain.css'
+import '../components/Navbar.css'
 import { Link } from "react-router-dom";
 
 const logo = window.location.origin + "/mmtLogoWhite.png"
 
-function NavbarMain() {
+function Navbar() {
     return (
         <div className='Header'>
              <div className='logoImage'>
                  <Link to='/'>
-                 <img target = 'www.linkedin.com' src={logo} height='40px' width='100px' />
+                 <img  src={logo} height='40px' width='100px' />
                  </Link>
                  </div>
              <div>
@@ -22,4 +22,4 @@ function NavbarMain() {
     )
 }
 
-export default NavbarMain
+export default Navbar
