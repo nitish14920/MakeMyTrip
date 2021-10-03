@@ -15,6 +15,7 @@
   box-shadow: 0 1px 7px 0 rgb(0 0 0 / 40%);
   background: #fff;
   color: blue;
+  margin-left: 0%;
 }
 .second-box {
   width: 1200px;
@@ -23,6 +24,7 @@
   box-shadow: 0 1px 7px 0 rgb(0 0 0 / 40%);
   background: #fff;
   margin: 0 auto;
+  padding-top: 2%;
 }
 
 .second-box-end-search {
@@ -48,10 +50,11 @@
   background-color: #fff;
   border-radius: 2rem;
   box-shadow: 0 1px 7px 0 rgb(0 0 0 / 20%);
+  margin-top: 5%;
 }
 
 .second-box-end-search-p {
-  margin: 0 0 20rem 34rem;
+ text-align: center;
   color: white;
 }
 

@@ -21,7 +21,7 @@ export const ConfirmPayment=()=>{
       <div style={{ color: "gray" }}>Gender</div>{" "}
       <div style={{ fontWeight: "bolder" }}>FEMALE</div>
       <div style={{ color: "gray" }}>Total Cost</div>{" "}
-      <div style={{ fontWeight: "bolder" }}>$4950</div>
+      <div style={{ fontWeight: "bolder" }}>₹7422</div>
     </div>
   </div>
   <div

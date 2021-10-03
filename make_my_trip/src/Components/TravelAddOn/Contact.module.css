@@ -1,20 +1,24 @@
-.TripDiv{
-  
-        display: flex;
-     background: white;
-      min-height: 40px;
-      padding: 0px 27px;
-      -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-      justify-content: space-between;
-      box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
-      color:black;
-      border-radius: 10px;
-      width: 100%;
-           margin-left: 45%;
-    
-}.LoginDiv {
-    display: flex;
+.TripDiv {
+  display: flex;
+  background: white;
+  min-height: 40px;
+  padding: 0px 27px;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+  color: black;
+  border-radius: 10px;
+  width: 100%;
+  margin-left: 45%;
+}
+.flightSummary {
+  width: 100%;
+
+  display: flex;
+}
+.LoginDiv {
+  display: flex;
   background-color: rgb(215, 241, 255);
   min-height: 10px;
   padding: 0px 27px;
@@ -22,52 +26,49 @@
   -ms-flex-pack: justify;
   justify-content: space-between;
   box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
-  color:black;
+  color: black;
   border-radius: 10px;
   width: 100%;
- 
+
   margin-left: 45%;
 }
-.LoginImg{
-    margin-top: 0%;
+.LoginImg {
+  margin-top: 0%;
 }
-.LoginP{
-width:60%;
-    margin-top: 0%;
-    color: black !important;
-  
+.LoginP {
+  width: 60%;
+  margin-top: 0%;
+  color: black !important;
 }
-h2{
-    text-align: left;
-    margin-left: 45%;
-    font-size: larger;
+h2 {
+  text-align: left;
+  margin-left: 45%;
+  font-size: larger;
 }
-.LoginSpan{
-    margin-top: -10%;
+.LoginSpan {
+  margin-top: -10%;
 }
-.LoginBtn{
-   
-margin-left: -30%;
-   color: blue;
- 
-margin-top:4%;
-    right: 10px;
-    background-position: -90px -368px;
+.LoginBtn {
+  margin-left: -30%;
+  color: blue;
+
+  margin-top: 4%;
+  right: 10px;
+  background-position: -90px -368px;
 }
-.FareSection{
-    border-radius: 10px;
-    background-color: #fff;
-    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 15%);
-    color: #454545;
-    width: 400px;
-    margin-left: 40%;
+.FareSection {
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 15%);
+  color: #454545;
+  width: 400px;
+  margin-left: 40%;
 }
-.FareSummary{
-   
-    border-bottom: 1px solid #f0f0f0;
-    box-sizing: border-box;
+.FareSummary {
+  border-bottom: 1px solid #f0f0f0;
+  box-sizing: border-box;
 }
-.FareSummary div{
-    margin-left: 3%;
-    margin-right: 3%;
+.FareSummary div {
+  margin-left: 3%;
+  margin-right: 3%;
 }

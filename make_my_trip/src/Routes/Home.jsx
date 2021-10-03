@@ -1,13 +1,30 @@
-import Navbar from "../Components/Navbar/Navbar";
-import Header from "../Components/Header/Header";
-import CarouselApplication from "../Components/carousel/carousel";
+import Header from '../Components/Header/Header';
+import Navbar from '../Components/Navbar/Navbar';
+import Aeroplane from "../Components/Aeroplane/Aeroplane"
+import NavbarSearchItems from "../Components/NavbarSearchItems/NavbarSearchItems"
+import CarouselApplication from '../Components/carousel/carousel';
+import Dashboard from '../Components/Dashboard';
+// import {FloatNav} from './components/Navbar/FloatNavbar'
 
-export const Home = () => {
-  return (
-    <div>
+
+function Home() {
+	return (
+		<div className='home2'>
+         {/* <FloatNav /> */}
       <Header />
+     
       <Navbar />
+ 
+      <div style={{position:'relative',top:'-380px'}}>
+      <Aeroplane/>
+      </div>
+      
       <CarouselApplication />
-    </div>
-  );
-};
+      <Dashboard/>
+     
+     
+		</div>
+	);
+}
+
+export {Home};

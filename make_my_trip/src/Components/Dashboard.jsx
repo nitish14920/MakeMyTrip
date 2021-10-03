@@ -7,9 +7,7 @@ import "./fourth.css";
 export default function Dashboard() {
   return (
     <div className="Dashboard">
-      <div className="">
-        
-      </div>
+      
       <div className="photos">
         {/* //first column */}
         <div classsName="fcolumn">
