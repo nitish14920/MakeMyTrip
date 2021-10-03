@@ -1,0 +1,2711 @@
+[
+ {
+   "ID": 1,
+   "Airport": "Sardar Vallabhbhai Patel International Airport",
+   "City": "Ahmedabad",
+   "Country": "India",
+   "Code": "AMD",
+   "Latitude": "23.0771999359",
+   "Longitude": "72.6346969604"
+ },
+ {
+   "ID": 2,
+   "Airport": "Akola Airport",
+   "City": "Akola",
+   "Country": "India",
+   "Code": "AKD",
+   "Latitude": "20.6989994049072",
+   "Longitude": "77.0586013793945"
+ },
+ {
+   "ID": 3,
+   "Airport": "Aurangabad Airport",
+   "City": "Aurangabad",
+   "Country": "India",
+   "Code": "IXU",
+   "Latitude": "19.862699508667",
+   "Longitude": "75.3981018066406"
+ },
+ {
+   "ID": 4,
+   "Airport": "Chhatrapati Shivaji International Airport",
+   "City": "Mumbai",
+   "Country": "India",
+   "Code": "BOM",
+   "Latitude": "19.0886993408",
+   "Longitude": "72.8678970337"
+ },
+ {
+   "ID": 5,
+   "Airport": "Bilaspur Airport",
+   "City": "Bilaspur",
+   "Country": "India",
+   "Code": "PAB",
+   "Latitude": "21.9883995056152",
+   "Longitude": "82.1110000610352"
+ },
+ {
+   "ID": 6,
+   "Airport": "Bhuj Airport",
+   "City": "Bhuj",
+   "Country": "India",
+   "Code": "BHJ",
+   "Latitude": "23.2877998352",
+   "Longitude": "69.6701965332"
+ },
+ {
+   "ID": 7,
+   "Airport": "Belgaum Airport",
+   "City": "Belgaum",
+   "Country": "India",
+   "Code": "IXG",
+   "Latitude": "15.8592996597",
+   "Longitude": "74.6183013916"
+ },
+ {
+   "ID": 8,
+   "Airport": "Vadodara Airport",
+   "City": "Baroda",
+   "Country": "India",
+   "Code": "BDQ",
+   "Latitude": "22.3362007141",
+   "Longitude": "73.2263031006"
+ },
+ {
+   "ID": 9,
+   "Airport": "Raja Bhoj International Airport",
+   "City": "Bhopal",
+   "Country": "India",
+   "Code": "BHO",
+   "Latitude": "23.2875003815",
+   "Longitude": "77.3374023438"
+ },
+ {
+   "ID": 10,
+   "Airport": "Bhavnagar Airport",
+   "City": "Bhaunagar",
+   "Country": "India",
+   "Code": "BHU",
+   "Latitude": "21.752199173",
+   "Longitude": "72.1852035522"
+ },
+ {
+   "ID": 11,
+   "Airport": "Daman Airport",
+   "City": "Daman",
+   "Country": "India",
+   "Code": "NMB",
+   "Latitude": "20.4344005584717",
+   "Longitude": "72.8432006835938"
+ },
+ {
+   "ID": 12,
+   "Airport": "Deesa Airport",
+   "City": "Deesa",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "24.2679004669189",
+   "Longitude": "72.2043991088867"
+ },
+ {
+   "ID": 13,
+   "Airport": "Guna Airport",
+   "City": "Guna",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "24.6546993255615",
+   "Longitude": "77.347297668457"
+ },
+ {
+   "ID": 14,
+   "Airport": "Dabolim Airport",
+   "City": "Goa",
+   "Country": "India",
+   "Code": "GOI",
+   "Latitude": "15.3808002472",
+   "Longitude": "73.8313980103"
+ },
+ {
+   "ID": 15,
+   "Airport": "Devi Ahilyabai Holkar Airport",
+   "City": "Indore",
+   "Country": "India",
+   "Code": "IDR",
+   "Latitude": "22.7217998505",
+   "Longitude": "75.8011016846"
+ },
+ {
+   "ID": 16,
+   "Airport": "Jabalpur Airport",
+   "City": "Jabalpur",
+   "Country": "India",
+   "Code": "JLR",
+   "Latitude": "23.1777992248535",
+   "Longitude": "80.052001953125"
+ },
+ {
+   "ID": 17,
+   "Airport": "Jamnagar Airport",
+   "City": "Jamnagar",
+   "Country": "India",
+   "Code": "JGA",
+   "Latitude": "22.4654998779297",
+   "Longitude": "70.0126037597656"
+ },
+ {
+   "ID": 18,
+   "Airport": "Kandla Airport",
+   "City": "Kandla",
+   "Country": "India",
+   "Code": "IXY",
+   "Latitude": "23.1126995087",
+   "Longitude": "70.1003036499"
+ },
+ {
+   "ID": 19,
+   "Airport": "Khajuraho Airport",
+   "City": "Khajuraho",
+   "Country": "India",
+   "Code": "HJR",
+   "Latitude": "24.817199707",
+   "Longitude": "79.9186019897"
+ },
+ {
+   "ID": 20,
+   "Airport": "Kolhapur Airport",
+   "City": "Kolhapur",
+   "Country": "India",
+   "Code": "KLH",
+   "Latitude": "16.6646995544",
+   "Longitude": "74.2893981934"
+ },
+ {
+   "ID": 21,
+   "Airport": "Keshod Airport",
+   "City": "Keshod",
+   "Country": "India",
+   "Code": "IXK",
+   "Latitude": "21.3171005249023",
+   "Longitude": "70.2704010009766"
+ },
+ {
+   "ID": 22,
+   "Airport": "Dr. Babasaheb Ambedkar International Airport",
+   "City": "Nagpur",
+   "Country": "India",
+   "Code": "NAG",
+   "Latitude": "21.0921993255615",
+   "Longitude": "79.0472030639648"
+ },
+ {
+   "ID": 23,
+   "Airport": "Gandhinagar Airport",
+   "City": "Nasik Road",
+   "Country": "India",
+   "Code": "ISK",
+   "Latitude": "19.9636993408",
+   "Longitude": "73.8076019287"
+ },
+ {
+   "ID": 24,
+   "Airport": "Pune Airport",
+   "City": "Pune",
+   "Country": "India",
+   "Code": "PNQ",
+   "Latitude": "18.5820999145508",
+   "Longitude": "73.9197006225586"
+ },
+ {
+   "ID": 25,
+   "Airport": "Porbandar Airport",
+   "City": "Porbandar",
+   "Country": "India",
+   "Code": "PBD",
+   "Latitude": "21.6487007141",
+   "Longitude": "69.6572036743"
+ },
+ {
+   "ID": 26,
+   "Airport": "Rajkot Airport",
+   "City": "Rajkot",
+   "Country": "India",
+   "Code": "RAJ",
+   "Latitude": "22.3092002869",
+   "Longitude": "70.7795028687"
+ },
+ {
+   "ID": 27,
+   "Airport": "Raipur Airport",
+   "City": "Raipur",
+   "Country": "India",
+   "Code": "RPR",
+   "Latitude": "21.1804008484",
+   "Longitude": "81.7388000488"
+ },
+ {
+   "ID": 28,
+   "Airport": "Solapur Airport",
+   "City": "Sholapur",
+   "Country": "India",
+   "Code": "SSE",
+   "Latitude": "17.6280002594",
+   "Longitude": "75.9347991943"
+ },
+ {
+   "ID": 29,
+   "Airport": "Surat Airport",
+   "City": "Surat",
+   "Country": "India",
+   "Code": "STV",
+   "Latitude": "21.1140995026",
+   "Longitude": "72.7417984009"
+ },
+ {
+   "ID": 30,
+   "Airport": "Maharana Pratap Airport",
+   "City": "Udaipur",
+   "Country": "India",
+   "Code": "UDR",
+   "Latitude": "24.6177005768",
+   "Longitude": "73.8961029053"
+ },
+ {
+   "ID": 31,
+   "Airport": "Along Airport",
+   "City": "Along",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "28.1753005981445",
+   "Longitude": "94.802001953125"
+ },
+ {
+   "ID": 32,
+   "Airport": "Agartala Airport",
+   "City": "Agartala",
+   "Country": "India",
+   "Code": "IXA",
+   "Latitude": "23.8869991302",
+   "Longitude": "91.2404022217"
+ },
+ {
+   "ID": 33,
+   "Airport": "Lengpui Airport",
+   "City": "Aizwal",
+   "Country": "India",
+   "Code": "AJL",
+   "Latitude": "23.8405990601",
+   "Longitude": "92.6196975708"
+ },
+ {
+   "ID": 34,
+   "Airport": "Bagdogra Airport",
+   "City": "Baghdogra",
+   "Country": "India",
+   "Code": "IXB",
+   "Latitude": "26.6812000274658",
+   "Longitude": "88.3285980224609"
+ },
+ {
+   "ID": 35,
+   "Airport": "Bokaro Airport",
+   "City": "Bokaro",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "23.6434993743896",
+   "Longitude": "86.1489028930664"
+ },
+ {
+   "ID": 36,
+   "Airport": "Biju Patnaik Airport",
+   "City": "Bhubaneswar",
+   "Country": "India",
+   "Code": "BBI",
+   "Latitude": "20.2444000244",
+   "Longitude": "85.8178024292"
+ },
+ {
+   "ID": 37,
+   "Airport": "Netaji Subhash Chandra Bose International Airport",
+   "City": "Kolkata",
+   "Country": "India",
+   "Code": "CCU",
+   "Latitude": "22.6546993255615",
+   "Longitude": "88.4467010498047"
+ },
+ {
+   "ID": 38,
+   "Airport": "Cooch Behar Airport",
+   "City": "Cooch-behar",
+   "Country": "India",
+   "Code": "COH",
+   "Latitude": "26.330499649",
+   "Longitude": "89.4672012329"
+ },
+ {
+   "ID": 39,
+   "Airport": "Dhanbad Airport",
+   "City": "Dhanbad",
+   "Country": "India",
+   "Code": "DBD",
+   "Latitude": "23.8339996337891",
+   "Longitude": "86.4253005981445"
+ },
+ {
+   "ID": 40,
+   "Airport": "Gaya Airport",
+   "City": "Gaya",
+   "Country": "India",
+   "Code": "GAY",
+   "Latitude": "24.7443008422852",
+   "Longitude": "84.9512023925781"
+ },
+ {
+   "ID": 41,
+   "Airport": "Hirakud Airport",
+   "City": "Hirakud",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "21.5802001953125",
+   "Longitude": "84.0056991577148"
+ },
+ {
+   "ID": 42,
+   "Airport": "Imphal Airport",
+   "City": "Imphal",
+   "Country": "India",
+   "Code": "IMF",
+   "Latitude": "24.7600002289",
+   "Longitude": "93.896697998"
+ },
+ {
+   "ID": 43,
+   "Airport": "Jharsuguda Airport",
+   "City": "Jharsuguda",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "21.9134998321533",
+   "Longitude": "84.0503997802734"
+ },
+ {
+   "ID": 44,
+   "Airport": "Jamshedpur Airport",
+   "City": "Jamshedpur",
+   "Country": "India",
+   "Code": "IXW",
+   "Latitude": "22.8131999969",
+   "Longitude": "86.168800354"
+ },
+ {
+   "ID": 45,
+   "Airport": "Jorhat Airport",
+   "City": "Jorhat",
+   "Country": "India",
+   "Code": "JRH",
+   "Latitude": "26.7315006256",
+   "Longitude": "94.1754989624"
+ },
+ {
+   "ID": 46,
+   "Airport": "Kailashahar Airport",
+   "City": "Kailashahar",
+   "Country": "India",
+   "Code": "IXH",
+   "Latitude": "24.3082008361816",
+   "Longitude": "92.0072021484375"
+ },
+ {
+   "ID": 47,
+   "Airport": "Silchar Airport",
+   "City": "Silchar",
+   "Country": "India",
+   "Code": "IXS",
+   "Latitude": "24.9129009247",
+   "Longitude": "92.9786987305"
+ },
+ {
+   "ID": 48,
+   "Airport": "North Lakhimpur Airport",
+   "City": "Lilabari",
+   "Country": "India",
+   "Code": "IXI",
+   "Latitude": "27.2954998016357",
+   "Longitude": "94.0976028442383"
+ },
+ {
+   "ID": 49,
+   "Airport": "Dibrugarh Airport",
+   "City": "Mohanbari",
+   "Country": "India",
+   "Code": "DIB",
+   "Latitude": "27.4839000702",
+   "Longitude": "95.0168991089"
+ },
+ {
+   "ID": 50,
+   "Airport": "Muzaffarpur Airport",
+   "City": "Mazuffarpur",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "26.1191005706787",
+   "Longitude": "85.3136978149414"
+ },
+ {
+   "ID": 51,
+   "Airport": "Nawapara Airport",
+   "City": "Nawapara",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "20.8700008392334",
+   "Longitude": "82.5195999145508"
+ },
+ {
+   "ID": 52,
+   "Airport": "Lok Nayak Jayaprakash Airport",
+   "City": "Patina",
+   "Country": "India",
+   "Code": "PAT",
+   "Latitude": "25.591299057",
+   "Longitude": "85.0879974365"
+ },
+ {
+   "ID": 53,
+   "Airport": "Purnea Airport",
+   "City": "Purnea",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "25.7595996856689",
+   "Longitude": "87.4100036621094"
+ },
+ {
+   "ID": 54,
+   "Airport": "Birsa Munda Airport",
+   "City": "Ranchi",
+   "Country": "India",
+   "Code": "IXR",
+   "Latitude": "23.3143005371",
+   "Longitude": "85.3217010498"
+ },
+ {
+   "ID": 55,
+   "Airport": "Rourkela Airport",
+   "City": "Rourkela",
+   "Country": "India",
+   "Code": "RRK",
+   "Latitude": "22.2567005157471",
+   "Longitude": "84.8145980834961"
+ },
+ {
+   "ID": 56,
+   "Airport": "Utkela Airport",
+   "City": "Utkela",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "20.0974006652832",
+   "Longitude": "83.1837997436523"
+ },
+ {
+   "ID": 57,
+   "Airport": "Vishakhapatnam Airport",
+   "City": "Vishakhapatnam",
+   "Country": "India",
+   "Code": "VTZ",
+   "Latitude": "17.721200943",
+   "Longitude": "83.2245025635"
+ },
+ {
+   "ID": 58,
+   "Airport": "Zero Airport",
+   "City": "Zero",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "27.5883007049561",
+   "Longitude": "93.8281021118164"
+ },
+ {
+   "ID": 59,
+   "Airport": "Agra Airport",
+   "City": "Agra",
+   "Country": "India",
+   "Code": "AGR",
+   "Latitude": "27.1557998657227",
+   "Longitude": "77.9608993530273"
+ },
+ {
+   "ID": 60,
+   "Airport": "Allahabad Airport",
+   "City": "Allahabad",
+   "Country": "India",
+   "Code": "IXD",
+   "Latitude": "25.4400997161865",
+   "Longitude": "81.7339019775391"
+ },
+ {
+   "ID": 61,
+   "Airport": "Sri Guru Ram Dass Jee International Airport",
+   "City": "Amritsar",
+   "Country": "India",
+   "Code": "ATQ",
+   "Latitude": "31.7096004486",
+   "Longitude": "74.7973022461"
+ },
+ {
+   "ID": 62,
+   "Airport": "Nal Airport",
+   "City": "Bikaner",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "28.0706005096436",
+   "Longitude": "73.2071990966797"
+ },
+ {
+   "ID": 63,
+   "Airport": "Lal Bahadur Shastri Airport",
+   "City": "Varanasi",
+   "Country": "India",
+   "Code": "VNS",
+   "Latitude": "25.4524002075",
+   "Longitude": "82.8592987061"
+ },
+ {
+   "ID": 64,
+   "Airport": "Kullu Manali Airport",
+   "City": "Kulu",
+   "Country": "India",
+   "Code": "KUU",
+   "Latitude": "31.8766994476318",
+   "Longitude": "77.1544036865234"
+ },
+ {
+   "ID": 65,
+   "Airport": "Bhiwani Airport",
+   "City": "Bhiwani",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "28.8369998931885",
+   "Longitude": "76.1791000366211"
+ },
+ {
+   "ID": 66,
+   "Airport": "Chandigarh Airport",
+   "City": "Chandigarh",
+   "Country": "India",
+   "Code": "IXC",
+   "Latitude": "30.6735000610352",
+   "Longitude": "76.7884979248047"
+ },
+ {
+   "ID": 67,
+   "Airport": "Safdarjung Airport",
+   "City": "Delhi",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "28.5844993591309",
+   "Longitude": "77.2058029174805"
+ },
+ {
+   "ID": 68,
+   "Airport": "Dehradun Airport",
+   "City": "Dehra Dun",
+   "Country": "India",
+   "Code": "DED",
+   "Latitude": "30.189699173",
+   "Longitude": "78.1802978516"
+ },
+ {
+   "ID": 69,
+   "Airport": "Indira Gandhi International Airport",
+   "City": "Delhi",
+   "Country": "India",
+   "Code": "DEL",
+   "Latitude": "28.566499710083",
+   "Longitude": "77.1031036376953"
+ },
+ {
+   "ID": 70,
+   "Airport": "Gwalior Airport",
+   "City": "Gwalior",
+   "Country": "India",
+   "Code": "GWL",
+   "Latitude": "26.2933006286621",
+   "Longitude": "78.2277984619141"
+ },
+ {
+   "ID": 71,
+   "Airport": "Hissar Airport",
+   "City": "Hissar",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "29.1793994903564",
+   "Longitude": "75.7553024291992"
+ },
+ {
+   "ID": 72,
+   "Airport": "Jhansi Airport",
+   "City": "Jhansi",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "25.4911994934082",
+   "Longitude": "78.5584030151367"
+ },
+ {
+   "ID": 73,
+   "Airport": "Jodhpur Airport",
+   "City": "Jodhpur",
+   "Country": "India",
+   "Code": "JDH",
+   "Latitude": "26.2511005401611",
+   "Longitude": "73.0488967895508"
+ },
+ {
+   "ID": 74,
+   "Airport": "Jaipur International Airport",
+   "City": "Jaipur",
+   "Country": "India",
+   "Code": "JAI",
+   "Latitude": "26.8241996765",
+   "Longitude": "75.8122024536"
+ },
+ {
+   "ID": 75,
+   "Airport": "Jaisalmer Airport",
+   "City": "Jaisalmer",
+   "Country": "India",
+   "Code": "JSA",
+   "Latitude": "26.8887004852295",
+   "Longitude": "70.8649978637695"
+ },
+ {
+   "ID": 76,
+   "Airport": "Jammu Airport",
+   "City": "Jammu",
+   "Country": "India",
+   "Code": "IXJ",
+   "Latitude": "32.6890983582",
+   "Longitude": "74.8374023438"
+ },
+ {
+   "ID": 77,
+   "Airport": "Kanpur Airport",
+   "City": "Kanpur",
+   "Country": "India",
+   "Code": "KNU",
+   "Latitude": "26.4414005279541",
+   "Longitude": "80.3648986816406"
+ },
+ {
+   "ID": 78,
+   "Airport": "Kota Airport",
+   "City": "Kota",
+   "Country": "India",
+   "Code": "KTU",
+   "Latitude": "25.160200119",
+   "Longitude": "75.8455963135"
+ },
+ {
+   "ID": 79,
+   "Airport": "Ludhiana Airport",
+   "City": "Ludhiaha",
+   "Country": "India",
+   "Code": "LUH",
+   "Latitude": "30.854700088501",
+   "Longitude": "75.9525985717773"
+ },
+ {
+   "ID": 80,
+   "Airport": "Leh Kushok Bakula Rimpochee Airport",
+   "City": "Leh",
+   "Country": "India",
+   "Code": "IXL",
+   "Latitude": "34.1358985901",
+   "Longitude": "77.5465011597"
+ },
+ {
+   "ID": 81,
+   "Airport": "Chaudhary Charan Singh International Airport",
+   "City": "Lucknow",
+   "Country": "India",
+   "Code": "LKO",
+   "Latitude": "26.7605991364",
+   "Longitude": "80.8892974854"
+ },
+ {
+   "ID": 82,
+   "Airport": "Patiala Airport",
+   "City": "Patiala",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "30.3148002624512",
+   "Longitude": "76.364501953125"
+ },
+ {
+   "ID": 83,
+   "Airport": "Pantnagar Airport",
+   "City": "Nainital",
+   "Country": "India",
+   "Code": "PGH",
+   "Latitude": "29.0333995819092",
+   "Longitude": "79.4737014770508"
+ },
+ {
+   "ID": 84,
+   "Airport": "Fursatganj Airport",
+   "City": "Raibarelli",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "26.2485008239746",
+   "Longitude": "81.380500793457"
+ },
+ {
+   "ID": 85,
+   "Airport": "Sheikh ul Alam Airport",
+   "City": "Srinagar",
+   "Country": "India",
+   "Code": "SXR",
+   "Latitude": "33.9870986938477",
+   "Longitude": "74.7742004394531"
+ },
+ {
+   "ID": 86,
+   "Airport": "Satna Airport",
+   "City": "Satna",
+   "Country": "India",
+   "Code": "TNI",
+   "Latitude": "24.5622997283936",
+   "Longitude": "80.8548965454102"
+ },
+ {
+   "ID": 87,
+   "Airport": "Agatti Airport",
+   "City": "Agatti Island",
+   "Country": "India",
+   "Code": "AGX",
+   "Latitude": "10.8236999511719",
+   "Longitude": "72.1760025024414"
+ },
+ {
+   "ID": 88,
+   "Airport": "Kempegowda International Airport",
+   "City": "Bangalore",
+   "Country": "India",
+   "Code": "BLR",
+   "Latitude": "13.1979",
+   "Longitude": "77.706299"
+ },
+ {
+   "ID": 89,
+   "Airport": "Bellary Airport",
+   "City": "Bellary",
+   "Country": "India",
+   "Code": "BEP",
+   "Latitude": "15.1627998352051",
+   "Longitude": "76.8827972412109"
+ },
+ {
+   "ID": 90,
+   "Airport": "Vijayawada Airport",
+   "City": "Vijayawada",
+   "Country": "India",
+   "Code": "VGA",
+   "Latitude": "16.5303993225098",
+   "Longitude": "80.7967987060547"
+ },
+ {
+   "ID": 91,
+   "Airport": "Coimbatore International Airport",
+   "City": "Coimbatore",
+   "Country": "India",
+   "Code": "CJB",
+   "Latitude": "11.029999733",
+   "Longitude": "77.0434036255"
+ },
+ {
+   "ID": 92,
+   "Airport": "Cochin International Airport",
+   "City": "Kochi",
+   "Country": "India",
+   "Code": "COK",
+   "Latitude": "10.1520004272",
+   "Longitude": "76.4019012451"
+ },
+ {
+   "ID": 93,
+   "Airport": "Calicut International Airport",
+   "City": "Calicut",
+   "Country": "India",
+   "Code": "CCJ",
+   "Latitude": "11.1367998123",
+   "Longitude": "75.9552993774"
+ },
+ {
+   "ID": 94,
+   "Airport": "Cuddapah Airport",
+   "City": "Cuddapah",
+   "Country": "India",
+   "Code": "CDP",
+   "Latitude": "14.5100002288818",
+   "Longitude": "78.7727966308594"
+ },
+ {
+   "ID": 95,
+   "Airport": "Dundigul Air Force Academy",
+   "City": "Dundigul",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "17.627199173",
+   "Longitude": "78.4033966064"
+ },
+ {
+   "ID": 96,
+   "Airport": "Begumpet Airport",
+   "City": "Hyderabad",
+   "Country": "India",
+   "Code": "BPM",
+   "Latitude": "17.4531002045",
+   "Longitude": "78.4675979614"
+ },
+ {
+   "ID": 97,
+   "Airport": "Madurai Airport",
+   "City": "Madurai",
+   "Country": "India",
+   "Code": "IXM",
+   "Latitude": "9.83450984955",
+   "Longitude": "78.0933990479"
+ },
+ {
+   "ID": 98,
+   "Airport": "Mangalore International Airport",
+   "City": "Mangalore",
+   "Country": "India",
+   "Code": "IXE",
+   "Latitude": "12.9612998962",
+   "Longitude": "74.8900985718"
+ },
+ {
+   "ID": 99,
+   "Airport": "Chennai International Airport",
+   "City": "Madras",
+   "Country": "India",
+   "Code": "MAA",
+   "Latitude": "12.9900054931641",
+   "Longitude": "80.1692962646484"
+ },
+ {
+   "ID": 100,
+   "Airport": "Nagarjuna Sagar Airport",
+   "City": "Nagarjunsagar",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "16.5426998138428",
+   "Longitude": "79.3187026977539"
+ },
+ {
+   "ID": 101,
+   "Airport": "Vir Savarkar International Airport",
+   "City": "Port Blair",
+   "Country": "India",
+   "Code": "IXZ",
+   "Latitude": "11.6412000656128",
+   "Longitude": "92.7296981811523"
+ },
+ {
+   "ID": 102,
+   "Airport": "Pondicherry Airport",
+   "City": "Pendicherry",
+   "Country": "India",
+   "Code": "PNY",
+   "Latitude": "11.9687004089355",
+   "Longitude": "79.8100967407227"
+ },
+ {
+   "ID": 103,
+   "Airport": "Rajahmundry Airport",
+   "City": "Rajahmundry",
+   "Country": "India",
+   "Code": "RJA",
+   "Latitude": "17.1103992462",
+   "Longitude": "81.8181991577"
+ },
+ {
+   "ID": 104,
+   "Airport": "Salem Airport",
+   "City": "Salem",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "11.78330039978",
+   "Longitude": "78.06559753418"
+ },
+ {
+   "ID": 105,
+   "Airport": "Tanjore Air Force Base",
+   "City": "Tanjore",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "10.7223997116089",
+   "Longitude": "79.1016006469727"
+ },
+ {
+   "ID": 106,
+   "Airport": "Tirupati Airport",
+   "City": "Tirupeti",
+   "Country": "India",
+   "Code": "TIR",
+   "Latitude": "13.6324996948",
+   "Longitude": "79.543296814"
+ },
+ {
+   "ID": 107,
+   "Airport": "Tiruchirapally Civil Airport Airport",
+   "City": "Tiruchirappalli",
+   "Country": "India",
+   "Code": "TRZ",
+   "Latitude": "10.7653999328613",
+   "Longitude": "78.7097015380859"
+ },
+ {
+   "ID": 108,
+   "Airport": "Trivandrum International Airport",
+   "City": "Trivandrum",
+   "Country": "India",
+   "Code": "TRV",
+   "Latitude": "8.48211956024",
+   "Longitude": "76.9200973511"
+ },
+ {
+   "ID": 109,
+   "Airport": "Malé International Airport",
+   "City": "Male",
+   "Country": "Maldives",
+   "Code": "MLE",
+   "Latitude": "4.19183015823364",
+   "Longitude": "73.5290985107422"
+ },
+ {
+   "ID": 110,
+   "Airport": "Hasanuddin International Airport",
+   "City": "Ujung Pandang",
+   "Country": "Indonesia",
+   "Code": "UPG",
+   "Latitude": "-5.06162977218628",
+   "Longitude": "119.554000854492"
+ },
+ {
+   "ID": 111,
+   "Airport": "Frans Kaisiepo Airport",
+   "City": "Biak",
+   "Country": "Indonesia",
+   "Code": "BIK",
+   "Latitude": "-1.19001996517181",
+   "Longitude": "136.108001708984"
+ },
+ {
+   "ID": 112,
+   "Airport": "Nabire Airport",
+   "City": "Nabire",
+   "Country": "Indonesia",
+   "Code": "NBX",
+   "Latitude": "-3.3681800365448",
+   "Longitude": "135.496002197266"
+ },
+ {
+   "ID": 113,
+   "Airport": "Moses Kilangin Airport",
+   "City": "Timika",
+   "Country": "Indonesia",
+   "Code": "TIM",
+   "Latitude": "-4.52827978134155",
+   "Longitude": "136.886993408203"
+ },
+ {
+   "ID": 114,
+   "Airport": "Sentani Airport",
+   "City": "Jayapura",
+   "Country": "Indonesia",
+   "Code": "DJJ",
+   "Latitude": "-2.57695007324219",
+   "Longitude": "140.516006469727"
+ },
+ {
+   "ID": 115,
+   "Airport": "Wamena Airport",
+   "City": "Wamena",
+   "Country": "Indonesia",
+   "Code": "WMX",
+   "Latitude": "-4.10250997543335",
+   "Longitude": "138.957000732422"
+ },
+ {
+   "ID": 116,
+   "Airport": "Mopah Airport",
+   "City": "Merauke",
+   "Country": "Indonesia",
+   "Code": "MKQ",
+   "Latitude": "-8.52029037475586",
+   "Longitude": "140.417999267578"
+ },
+ {
+   "ID": 117,
+   "Airport": "Jalaluddin Airport",
+   "City": "Gorontalo",
+   "Country": "Indonesia",
+   "Code": "GTO",
+   "Latitude": "0.63711899519",
+   "Longitude": "122.849998474"
+ },
+ {
+   "ID": 118,
+   "Airport": "Mutiara Airport",
+   "City": "Palu",
+   "Country": "Indonesia",
+   "Code": "PLW",
+   "Latitude": "-0.91854202747345",
+   "Longitude": "119.910003662109"
+ },
+ {
+   "ID": 119,
+   "Airport": "Sam Ratulangi Airport",
+   "City": "Manado",
+   "Country": "Indonesia",
+   "Code": "MDC",
+   "Latitude": "1.54926002025604",
+   "Longitude": "124.926002502441"
+ },
+ {
+   "ID": 120,
+   "Airport": "Kasiguncu Airport",
+   "City": "Poso",
+   "Country": "Indonesia",
+   "Code": "PSJ",
+   "Latitude": "-1.41674995422",
+   "Longitude": "120.657997131"
+ },
+ {
+   "ID": 121,
+   "Airport": "Pitu Airport",
+   "City": "Morotai Island",
+   "Country": "Indonesia",
+   "Code": "OTI",
+   "Latitude": "2.04598999023",
+   "Longitude": "128.324996948"
+ },
+ {
+   "ID": 122,
+   "Airport": "Sultan Khairun Babullah Airport",
+   "City": "Ternate",
+   "Country": "Indonesia",
+   "Code": "TTE",
+   "Latitude": "0.831413984298706",
+   "Longitude": "127.380996704102"
+ },
+ {
+   "ID": 123,
+   "Airport": "Bubung Airport",
+   "City": "Luwuk",
+   "Country": "Indonesia",
+   "Code": "LUW",
+   "Latitude": "-1.03892004489899",
+   "Longitude": "122.772003173828"
+ },
+ {
+   "ID": 124,
+   "Airport": "Pattimura Airport, Ambon",
+   "City": "Ambon",
+   "Country": "Indonesia",
+   "Code": "AMQ",
+   "Latitude": "-3.7102599144",
+   "Longitude": "128.089004517"
+ },
+ {
+   "ID": 125,
+   "Airport": "Fakfak Airport",
+   "City": "Fak Fak",
+   "Country": "Indonesia",
+   "Code": "FKQ",
+   "Latitude": "-2.92019009590149",
+   "Longitude": "132.266998291016"
+ },
+ {
+   "ID": 126,
+   "Airport": "Kaimana Airport",
+   "City": "Kaimana",
+   "Country": "Indonesia",
+   "Code": "KNG",
+   "Latitude": "-3.64452004432678",
+   "Longitude": "133.695999145508"
+ },
+ {
+   "ID": 127,
+   "Airport": "Babo Airport",
+   "City": "Babo",
+   "Country": "Indonesia",
+   "Code": "BXB",
+   "Latitude": "-2.53223991394043",
+   "Longitude": "133.438995361328"
+ },
+ {
+   "ID": 128,
+   "Airport": "Rendani Airport",
+   "City": "Manokwari",
+   "Country": "Indonesia",
+   "Code": "MKW",
+   "Latitude": "-0.891833007335663",
+   "Longitude": "134.04899597168"
+ },
+ {
+   "ID": 129,
+   "Airport": "Dominique Edward Osok Airport",
+   "City": "Sorong",
+   "Country": "Indonesia",
+   "Code": "SOQ",
+   "Latitude": "-0.894",
+   "Longitude": "131.287"
+ },
+ {
+   "ID": 130,
+   "Airport": "Bintulu Airport",
+   "City": "Bintulu",
+   "Country": "Malaysia",
+   "Code": "BTU",
+   "Latitude": "3.12385010719",
+   "Longitude": "113.019996643"
+ },
+ {
+   "ID": 131,
+   "Airport": "Kuching International Airport",
+   "City": "Kuching",
+   "Country": "Malaysia",
+   "Code": "KCH",
+   "Latitude": "1.48469996452332",
+   "Longitude": "110.34700012207"
+ },
+ {
+   "ID": 132,
+   "Airport": "Limbang Airport",
+   "City": "Limbang",
+   "Country": "Malaysia",
+   "Code": "LMN",
+   "Latitude": "4.80830001831055",
+   "Longitude": "115.01000213623"
+ },
+ {
+   "ID": 133,
+   "Airport": "Marudi Airport",
+   "City": "Marudi",
+   "Country": "Malaysia",
+   "Code": "MUR",
+   "Latitude": "4.17897987365723",
+   "Longitude": "114.329002380371"
+ },
+ {
+   "ID": 134,
+   "Airport": "Miri Airport",
+   "City": "Miri",
+   "Country": "Malaysia",
+   "Code": "MYY",
+   "Latitude": "4.3220100402832",
+   "Longitude": "113.986999511719"
+ },
+ {
+   "ID": 135,
+   "Airport": "Sibu Airport",
+   "City": "Sibu",
+   "Country": "Malaysia",
+   "Code": "SBW",
+   "Latitude": "2.26160001754761",
+   "Longitude": "111.985000610352"
+ },
+ {
+   "ID": 136,
+   "Airport": "Lahad Datu Airport",
+   "City": "Lahad Datu",
+   "Country": "Malaysia",
+   "Code": "LDU",
+   "Latitude": "5.03224992752075",
+   "Longitude": "118.323997497559"
+ },
+ {
+   "ID": 137,
+   "Airport": "Kota Kinabalu International Airport",
+   "City": "Kota Kinabalu",
+   "Country": "Malaysia",
+   "Code": "BKI",
+   "Latitude": "5.93721008300781",
+   "Longitude": "116.051002502441"
+ },
+ {
+   "ID": 138,
+   "Airport": "Labuan Airport",
+   "City": "Labuan",
+   "Country": "Malaysia",
+   "Code": "LBU",
+   "Latitude": "5.30068016052246",
+   "Longitude": "115.25"
+ },
+ {
+   "ID": 139,
+   "Airport": "Tawau Airport",
+   "City": "Tawau",
+   "Country": "Malaysia",
+   "Code": "TWU",
+   "Latitude": "4.32015991210938",
+   "Longitude": "118.127998352051"
+ },
+ {
+   "ID": 140,
+   "Airport": "Sultan Syarif Kasim Ii (Simpang Tiga) Airport",
+   "City": "Pekanbaru",
+   "Country": "Indonesia",
+   "Code": "PKU",
+   "Latitude": "0.460786014795303",
+   "Longitude": "101.444999694824"
+ },
+ {
+   "ID": 141,
+   "Airport": "Pinang Kampai Airport",
+   "City": "Dumai",
+   "Country": "Indonesia",
+   "Code": "DUM",
+   "Latitude": "1.60919",
+   "Longitude": "101.433998"
+ },
+ {
+   "ID": 142,
+   "Airport": "Soekarno-Hatta International Airport",
+   "City": "Jakarta",
+   "Country": "Indonesia",
+   "Code": "CGK",
+   "Latitude": "-6.1255698204",
+   "Longitude": "106.65599823"
+ },
+ {
+   "ID": 143,
+   "Airport": "Binaka Airport",
+   "City": "Gunung Sitoli",
+   "Country": "Indonesia",
+   "Code": "GNS",
+   "Latitude": "1.16638004779816",
+   "Longitude": "97.7046966552734"
+ },
+ {
+   "ID": 144,
+   "Airport": "Aek Godang Airport",
+   "City": "Padang Sidempuan",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "1.4001",
+   "Longitude": "99.430496"
+ },
+ {
+   "ID": 145,
+   "Airport": "Minangkabau Airport",
+   "City": "Padang",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-0.786916971206665",
+   "Longitude": "100.28099822998"
+ },
+ {
+   "ID": 146,
+   "Airport": "Soewondo Air Force Base",
+   "City": "Medan",
+   "Country": "Indonesia",
+   "Code": "MES",
+   "Latitude": "3.559167",
+   "Longitude": "98.671111"
+ },
+ {
+   "ID": 147,
+   "Airport": "Dr Ferdinand Lumban Tobing Airport",
+   "City": "Sibolga",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "1.55594003201",
+   "Longitude": "98.8889007568"
+ },
+ {
+   "ID": 148,
+   "Airport": "Nanga Pinoh Airport",
+   "City": "Nangapinoh",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-0.34886899590492",
+   "Longitude": "111.74800109863"
+ },
+ {
+   "ID": 149,
+   "Airport": "Ketapang(Rahadi Usman) Airport",
+   "City": "Ketapang",
+   "Country": "Indonesia",
+   "Code": "KTG",
+   "Latitude": "-1.81664001941681",
+   "Longitude": "109.962997436523"
+ },
+ {
+   "ID": 150,
+   "Airport": "Supadio Airport",
+   "City": "Pontianak",
+   "Country": "Indonesia",
+   "Code": "PNK",
+   "Latitude": "-0.150710999965668",
+   "Longitude": "109.403999328613"
+ },
+ {
+   "ID": 151,
+   "Airport": "Sultan Thaha Airport",
+   "City": "Jambi",
+   "Country": "Indonesia",
+   "Code": "DJB",
+   "Latitude": "-1.63802003860474",
+   "Longitude": "103.643997192383"
+ },
+ {
+   "ID": 152,
+   "Airport": "Fatmawati Soekarno Airport",
+   "City": "Bengkulu",
+   "Country": "Indonesia",
+   "Code": "BKS",
+   "Latitude": "-3.8637",
+   "Longitude": "102.338997"
+ },
+ {
+   "ID": 153,
+   "Airport": "Sultan Mahmud Badaruddin II Airport",
+   "City": "Palembang",
+   "Country": "Indonesia",
+   "Code": "PLM",
+   "Latitude": "-2.8982501029968",
+   "Longitude": "104.69999694824"
+ },
+ {
+   "ID": 154,
+   "Airport": "Japura Airport",
+   "City": "Rengat",
+   "Country": "Indonesia",
+   "Code": "RGT",
+   "Latitude": "-0.352807998657227",
+   "Longitude": "102.334999084473"
+ },
+ {
+   "ID": 155,
+   "Airport": "Lhok Sukon Airport",
+   "City": "Lhok Sukon",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "5.06950998306274",
+   "Longitude": "97.2592010498047"
+ },
+ {
+   "ID": 156,
+   "Airport": "Sultan Iskandar Muda International Airport",
+   "City": "Banda Aceh",
+   "Country": "Indonesia",
+   "Code": "BTJ",
+   "Latitude": "5.52287202401",
+   "Longitude": "95.4206371307"
+ },
+ {
+   "ID": 157,
+   "Airport": "Kluang Airport",
+   "City": "Kluang",
+   "Country": "Malaysia",
+   "Code": null,
+   "Latitude": "2.04138994217",
+   "Longitude": "103.306999207"
+ },
+ {
+   "ID": 158,
+   "Airport": "Sultan Abdul Halim Airport",
+   "City": "Alor Setar",
+   "Country": "Malaysia",
+   "Code": "AOR",
+   "Latitude": "6.18967008590698",
+   "Longitude": "100.398002624512"
+ },
+ {
+   "ID": 159,
+   "Airport": "Butterworth Airport",
+   "City": "Butterworth",
+   "Country": "Malaysia",
+   "Code": null,
+   "Latitude": "5.46591997146606",
+   "Longitude": "100.390998840332"
+ },
+ {
+   "ID": 160,
+   "Airport": "Sultan Ismail Petra Airport",
+   "City": "Kota Bahru",
+   "Country": "Malaysia",
+   "Code": "KBR",
+   "Latitude": "6.16685009002686",
+   "Longitude": "102.292999267578"
+ },
+ {
+   "ID": 161,
+   "Airport": "Kuantan Airport",
+   "City": "Kuantan",
+   "Country": "Malaysia",
+   "Code": "KUA",
+   "Latitude": "3.77538990974426",
+   "Longitude": "103.208999633789"
+ },
+ {
+   "ID": 162,
+   "Airport": "Kerteh Airport",
+   "City": "Kerteh",
+   "Country": "Malaysia",
+   "Code": "KTE",
+   "Latitude": "4.5372200012207",
+   "Longitude": "103.427001953125"
+ },
+ {
+   "ID": 163,
+   "Airport": "Simpang Airport",
+   "City": "Simpang",
+   "Country": "Malaysia",
+   "Code": null,
+   "Latitude": "3.11225008964539",
+   "Longitude": "101.703002929688"
+ },
+ {
+   "ID": 164,
+   "Airport": "Sultan Azlan Shah Airport",
+   "City": "Ipoh",
+   "Country": "Malaysia",
+   "Code": "IPH",
+   "Latitude": "4.56796979904175",
+   "Longitude": "101.092002868652"
+ },
+ {
+   "ID": 165,
+   "Airport": "Senai International Airport",
+   "City": "Johor Bahru",
+   "Country": "Malaysia",
+   "Code": "JHB",
+   "Latitude": "1.64130997657776",
+   "Longitude": "103.669998168945"
+ },
+ {
+   "ID": 166,
+   "Airport": "Kuala Lumpur International Airport",
+   "City": "Kuala Lumpur",
+   "Country": "Malaysia",
+   "Code": "KUL",
+   "Latitude": "2.745579957962",
+   "Longitude": "101.70999908447"
+ },
+ {
+   "ID": 167,
+   "Airport": "Langkawi International Airport",
+   "City": "Langkawi",
+   "Country": "Malaysia",
+   "Code": "LGK",
+   "Latitude": "6.32973003387451",
+   "Longitude": "99.7286987304688"
+ },
+ {
+   "ID": 168,
+   "Airport": "Malacca Airport",
+   "City": "Malacca",
+   "Country": "Malaysia",
+   "Code": "MKZ",
+   "Latitude": "2.2633600235",
+   "Longitude": "102.251998901"
+ },
+ {
+   "ID": 169,
+   "Airport": "Sultan Mahmud Airport",
+   "City": "Kuala Terengganu",
+   "Country": "Malaysia",
+   "Code": "TGG",
+   "Latitude": "5.38263988494873",
+   "Longitude": "103.102996826172"
+ },
+ {
+   "ID": 170,
+   "Airport": "Penang International Airport",
+   "City": "Penang",
+   "Country": "Malaysia",
+   "Code": "PEN",
+   "Latitude": "5.29714012145996",
+   "Longitude": "100.277000427246"
+ },
+ {
+   "ID": 171,
+   "Airport": "Pulau Tioman Airport",
+   "City": "Tioman",
+   "Country": "Malaysia",
+   "Code": "TOD",
+   "Latitude": "2.81818008422852",
+   "Longitude": "104.160003662109"
+ },
+ {
+   "ID": 172,
+   "Airport": "Sultan Abdul Aziz Shah International Airport",
+   "City": "Kuala Lumpur",
+   "Country": "Malaysia",
+   "Code": "SZB",
+   "Latitude": "3.13057994842529",
+   "Longitude": "101.549003601074"
+ },
+ {
+   "ID": 173,
+   "Airport": "Naha Airport",
+   "City": "Naha",
+   "Country": "Indonesia",
+   "Code": "NAH",
+   "Latitude": "3.68320989608765",
+   "Longitude": "125.52799987793"
+ },
+ {
+   "ID": 174,
+   "Airport": "Andi Jemma Airport",
+   "City": "Masamba",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-2.55803990364075",
+   "Longitude": "120.323997497559"
+ },
+ {
+   "ID": 175,
+   "Airport": "Soroako Airport",
+   "City": "Soroako",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-2.53119993209839",
+   "Longitude": "121.358001708984"
+ },
+ {
+   "ID": 176,
+   "Airport": "Pongtiku Airport",
+   "City": "Makale",
+   "Country": "Indonesia",
+   "Code": "TTR",
+   "Latitude": "-3.0447399616241",
+   "Longitude": "119.82199859619"
+ },
+ {
+   "ID": 177,
+   "Airport": "Wolter Monginsidi Airport",
+   "City": "Kendari",
+   "Country": "Indonesia",
+   "Code": "KDI",
+   "Latitude": "-4.08161020278931",
+   "Longitude": "122.417999267578"
+ },
+ {
+   "ID": 178,
+   "Airport": "Maimun Saleh Airport",
+   "City": "Sabang",
+   "Country": "Indonesia",
+   "Code": "SBG",
+   "Latitude": "5.87412977219",
+   "Longitude": "95.3396987915"
+ },
+ {
+   "ID": 179,
+   "Airport": "Cibeureum Airport",
+   "City": "Tasikmalaya",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-7.34660005569",
+   "Longitude": "108.246002197"
+ },
+ {
+   "ID": 180,
+   "Airport": "Iswahyudi Airport",
+   "City": "Madiun",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-7.61576986312866",
+   "Longitude": "111.43399810791"
+ },
+ {
+   "ID": 181,
+   "Airport": "Abdul Rachman Saleh Airport",
+   "City": "Malang",
+   "Country": "Indonesia",
+   "Code": "MLG",
+   "Latitude": "-7.92655992508",
+   "Longitude": "112.714996338"
+ },
+ {
+   "ID": 182,
+   "Airport": "Budiarto Airport",
+   "City": "Tangerang",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-6.29316997528",
+   "Longitude": "106.569999695"
+ },
+ {
+   "ID": 183,
+   "Airport": "Husein Sastranegara International Airport",
+   "City": "Bandung",
+   "Country": "Indonesia",
+   "Code": "BDO",
+   "Latitude": "-6.90062999725342",
+   "Longitude": "107.575996398926"
+ },
+ {
+   "ID": 184,
+   "Airport": "Penggung Airport",
+   "City": "Cirebon",
+   "Country": "Indonesia",
+   "Code": "CBN",
+   "Latitude": "-6.75614023209",
+   "Longitude": "108.540000916"
+ },
+ {
+   "ID": 185,
+   "Airport": "Adi Sutjipto International Airport",
+   "City": "Yogyakarta",
+   "Country": "Indonesia",
+   "Code": "JOG",
+   "Latitude": "-7.78817987442017",
+   "Longitude": "110.431999206543"
+ },
+ {
+   "ID": 186,
+   "Airport": "Tunggul Wulung Airport",
+   "City": "Cilacap",
+   "Country": "Indonesia",
+   "Code": "CXP",
+   "Latitude": "-7.64506006241",
+   "Longitude": "109.033996582"
+ },
+ {
+   "ID": 187,
+   "Airport": "Pondok Cabe Air Base",
+   "City": "Jakarta",
+   "Country": "Indonesia",
+   "Code": "PCB",
+   "Latitude": "-6.33695983886719",
+   "Longitude": "106.764999389648"
+ },
+ {
+   "ID": 188,
+   "Airport": "Achmad Yani Airport",
+   "City": "Semarang",
+   "Country": "Indonesia",
+   "Code": "SRG",
+   "Latitude": "-6.97273",
+   "Longitude": "110.375"
+ },
+ {
+   "ID": 189,
+   "Airport": "Hang Nadim International Airport",
+   "City": "Batam",
+   "Country": "Indonesia",
+   "Code": "BTH",
+   "Latitude": "1.12102997303",
+   "Longitude": "104.119003296"
+ },
+ {
+   "ID": 190,
+   "Airport": "Buluh Tumbang (H A S Hanandjoeddin) Airport",
+   "City": "Tanjung Pandan",
+   "Country": "Indonesia",
+   "Code": "TJQ",
+   "Latitude": "-2.74571990967",
+   "Longitude": "107.754997253"
+ },
+ {
+   "ID": 191,
+   "Airport": "Pangkal Pinang (Depati Amir) Airport",
+   "City": "Pangkal Pinang",
+   "Country": "Indonesia",
+   "Code": "PGK",
+   "Latitude": "-2.16219997406",
+   "Longitude": "106.138999939"
+ },
+ {
+   "ID": 192,
+   "Airport": "Raja Haji Fisabilillah International Airport",
+   "City": "Tanjung Pinang",
+   "Country": "Indonesia",
+   "Code": "TNJ",
+   "Latitude": "0.922683000565",
+   "Longitude": "104.531997681"
+ },
+ {
+   "ID": 193,
+   "Airport": "Dabo Airport",
+   "City": "Singkep",
+   "Country": "Indonesia",
+   "Code": "SIQ",
+   "Latitude": "-0.47918900847435",
+   "Longitude": "104.579002380371"
+ },
+ {
+   "ID": 194,
+   "Airport": "Syamsudin Noor Airport",
+   "City": "Banjarmasin",
+   "Country": "Indonesia",
+   "Code": "BDJ",
+   "Latitude": "-3.44235992431641",
+   "Longitude": "114.763000488281"
+ },
+ {
+   "ID": 195,
+   "Airport": "Batu Licin Airport",
+   "City": "Batu Licin",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-3.41241002083",
+   "Longitude": "115.995002747"
+ },
+ {
+   "ID": 196,
+   "Airport": "Iskandar Airport",
+   "City": "Pangkalan Bun",
+   "Country": "Indonesia",
+   "Code": "PKN",
+   "Latitude": "-2.70519995689",
+   "Longitude": "111.672996521"
+ },
+ {
+   "ID": 197,
+   "Airport": "Tjilik Riwut Airport",
+   "City": "Palangkaraya",
+   "Country": "Indonesia",
+   "Code": "PKY",
+   "Latitude": "-2.22513008118",
+   "Longitude": "113.943000793"
+ },
+ {
+   "ID": 198,
+   "Airport": "Maumere(Wai Oti) Airport",
+   "City": "Maumere",
+   "Country": "Indonesia",
+   "Code": "MOF",
+   "Latitude": "-8.64064979553",
+   "Longitude": "122.236999512"
+ },
+ {
+   "ID": 199,
+   "Airport": "Ende (H Hasan Aroeboesman) Airport",
+   "City": "Ende",
+   "Country": "Indonesia",
+   "Code": "ENE",
+   "Latitude": "-8.8492898941",
+   "Longitude": "121.661003113"
+ },
+ {
+   "ID": 200,
+   "Airport": "Frans Sales Lega Airport",
+   "City": "Ruteng",
+   "Country": "Indonesia",
+   "Code": "RTG",
+   "Latitude": "-8.5970096588135",
+   "Longitude": "120.47699737549"
+ },
+ {
+   "ID": 201,
+   "Airport": "El Tari Airport",
+   "City": "Kupang",
+   "Country": "Indonesia",
+   "Code": "KOE",
+   "Latitude": "-10.1716003417969",
+   "Longitude": "123.670997619629"
+ },
+ {
+   "ID": 202,
+   "Airport": "Komodo (Mutiara II) Airport",
+   "City": "Labuhan Bajo",
+   "Country": "Indonesia",
+   "Code": "LBJ",
+   "Latitude": "-8.48666000366211",
+   "Longitude": "119.888999938965"
+ },
+ {
+   "ID": 203,
+   "Airport": "Sultan Aji Muhamad Sulaiman Airport",
+   "City": "Balikpapan",
+   "Country": "Indonesia",
+   "Code": "BPN",
+   "Latitude": "-1.26827001572",
+   "Longitude": "116.893997192"
+ },
+ {
+   "ID": 204,
+   "Airport": "Juwata Airport",
+   "City": "Taraken",
+   "Country": "Indonesia",
+   "Code": "TRK",
+   "Latitude": "3.326667",
+   "Longitude": "117.569444"
+ },
+ {
+   "ID": 205,
+   "Airport": "Temindung Airport",
+   "City": "Samarinda",
+   "Country": "Indonesia",
+   "Code": "SRI",
+   "Latitude": "-0.484530985355",
+   "Longitude": "117.156997681"
+ },
+ {
+   "ID": 206,
+   "Airport": "Tanjung Santan Airport",
+   "City": "Tanjung Santan",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-0.0929730013013",
+   "Longitude": "117.45300293"
+ },
+ {
+   "ID": 207,
+   "Airport": "Selaparang Airport",
+   "City": "Mataram",
+   "Country": "Indonesia",
+   "Code": "AMI",
+   "Latitude": "-8.56070995331",
+   "Longitude": "116.095001221"
+ },
+ {
+   "ID": 208,
+   "Airport": "Muhammad Salahuddin Airport",
+   "City": "Bima",
+   "Country": "Indonesia",
+   "Code": "BMU",
+   "Latitude": "-8.5396499633789",
+   "Longitude": "118.68699645996"
+ },
+ {
+   "ID": 209,
+   "Airport": "Waingapu Airport",
+   "City": "Waingapu",
+   "Country": "Indonesia",
+   "Code": "WGP",
+   "Latitude": "-9.6692199707",
+   "Longitude": "120.302001953"
+ },
+ {
+   "ID": 210,
+   "Airport": "Juanda International Airport",
+   "City": "Surabaya",
+   "Country": "Indonesia",
+   "Code": "SUB",
+   "Latitude": "-7.37982988357544",
+   "Longitude": "112.787002563477"
+ },
+ {
+   "ID": 211,
+   "Airport": "Adi Sumarmo Wiryokusumo Airport",
+   "City": "Solo City",
+   "Country": "Indonesia",
+   "Code": "SOC",
+   "Latitude": "-7.51608991622925",
+   "Longitude": "110.75700378418"
+ },
+ {
+   "ID": 212,
+   "Airport": "Ngurah Rai (Bali) International Airport",
+   "City": "Denpasar",
+   "Country": "Indonesia",
+   "Code": "DPS",
+   "Latitude": "-8.7481698989868",
+   "Longitude": "115.16699981689"
+ },
+ {
+   "ID": 213,
+   "Airport": "LTS Pulau Redang Airport",
+   "City": "Redang",
+   "Country": "Malaysia",
+   "Code": "RDN",
+   "Latitude": "5.76527976989746",
+   "Longitude": "103.00700378418"
+ },
+ {
+   "ID": 214,
+   "Airport": "Mulu Airport",
+   "City": "Mulu",
+   "Country": "Malaysia",
+   "Code": "MZV",
+   "Latitude": "4.04832983016968",
+   "Longitude": "114.805000305176"
+ },
+ {
+   "ID": 215,
+   "Airport": "Sandakan Airport",
+   "City": "Sandakan",
+   "Country": "Malaysia",
+   "Code": "SDK",
+   "Latitude": "5.90089988708496",
+   "Longitude": "118.05899810791"
+ },
+ {
+   "ID": 216,
+   "Airport": "Kaadedhdhoo Airport",
+   "City": "Kaadedhdhoo",
+   "Country": "Maldives",
+   "Code": "KDM",
+   "Latitude": "0.488130986690521",
+   "Longitude": "72.9969024658203"
+ },
+ {
+   "ID": 217,
+   "Airport": "Diu Airport",
+   "City": "Diu",
+   "Country": "India",
+   "Code": "DIU",
+   "Latitude": "20.7131004333496",
+   "Longitude": "70.9210968017578"
+ },
+ {
+   "ID": 218,
+   "Airport": "Hubli Airport",
+   "City": "Hubli",
+   "Country": "India",
+   "Code": "HBX",
+   "Latitude": "15.361700058",
+   "Longitude": "75.0848999023"
+ },
+ {
+   "ID": 219,
+   "Airport": "Shillong Airport",
+   "City": "Shillong",
+   "Country": "India",
+   "Code": "SHL",
+   "Latitude": "25.7035999298096",
+   "Longitude": "91.9786987304687"
+ },
+ {
+   "ID": 220,
+   "Airport": "Lokpriya Gopinath Bordoloi International Airport",
+   "City": "Guwahati",
+   "Country": "India",
+   "Code": "GAU",
+   "Latitude": "26.1061000823975",
+   "Longitude": "91.5858993530273"
+ },
+ {
+   "ID": 221,
+   "Airport": "Dimapur Airport",
+   "City": "Dimapur",
+   "Country": "India",
+   "Code": "DMU",
+   "Latitude": "25.8838996887",
+   "Longitude": "93.7711029053"
+ },
+ {
+   "ID": 222,
+   "Airport": "Tezpur Airport",
+   "City": "Tezpur",
+   "Country": "India",
+   "Code": "TEZ",
+   "Latitude": "26.7091007232666",
+   "Longitude": "92.7846984863281"
+ },
+ {
+   "ID": 223,
+   "Airport": "Gan International Airport",
+   "City": "Gan Island",
+   "Country": "Maldives",
+   "Code": "GAN",
+   "Latitude": "-0.693341970443726",
+   "Longitude": "73.1556015014648"
+ },
+ {
+   "ID": 224,
+   "Airport": "Hanimaadhoo Airport",
+   "City": "Haa Dhaalu Atoll",
+   "Country": "Maldives",
+   "Code": "HAQ",
+   "Latitude": "6.74422979354858",
+   "Longitude": "73.1705017089844"
+ },
+ {
+   "ID": 225,
+   "Airport": "Kadhdhoo Airport",
+   "City": "Laamu Atoll",
+   "Country": "Maldives",
+   "Code": "KDO",
+   "Latitude": "1.85916996002197",
+   "Longitude": "73.5218963623047"
+ },
+ {
+   "ID": 226,
+   "Airport": "Sumbawa Besar Airport",
+   "City": "Sumbawa Island",
+   "Country": "Indonesia",
+   "Code": "SWQ",
+   "Latitude": "-8.48904037475586",
+   "Longitude": "117.412002563477"
+ },
+ {
+   "ID": 227,
+   "Airport": "Tambolaka Airport",
+   "City": "Waikabubak-Sumba Island",
+   "Country": "Indonesia",
+   "Code": "TMC",
+   "Latitude": "-9.4097204208374",
+   "Longitude": "119.244003295898"
+ },
+ {
+   "ID": 228,
+   "Airport": "Bokondini Airport",
+   "City": "Bokondini-Papua Island",
+   "Country": "Indonesia",
+   "Code": "BUI",
+   "Latitude": "-3.6822",
+   "Longitude": "138.6755"
+ },
+ {
+   "ID": 229,
+   "Airport": "Senggeh Airport",
+   "City": "Senggeh-Papua Island",
+   "Country": "Indonesia",
+   "Code": "SEH",
+   "Latitude": "-3.45",
+   "Longitude": "140.779"
+ },
+ {
+   "ID": 230,
+   "Airport": "Tanjung Harapan Airport",
+   "City": "Tanjung Selor-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "TJS",
+   "Latitude": "2.83583333333",
+   "Longitude": "117.373611111"
+ },
+ {
+   "ID": 231,
+   "Airport": "Datadawai Airport",
+   "City": "Datadawai-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "DTD",
+   "Latitude": "0.8106",
+   "Longitude": "114.5306"
+ },
+ {
+   "ID": 232,
+   "Airport": "Barau(Kalimaru) Airport",
+   "City": "Tanjung Redep-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "BEJ",
+   "Latitude": "2.15549993515",
+   "Longitude": "117.431999207"
+ },
+ {
+   "ID": 233,
+   "Airport": "Warukin Airport",
+   "City": "Tanjung-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "TJG",
+   "Latitude": "-2.21655988693",
+   "Longitude": "115.435997009"
+ },
+ {
+   "ID": 234,
+   "Airport": "Sampit(Hasan) Airport",
+   "City": "Sampit-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "SMQ",
+   "Latitude": "-2.49919009209",
+   "Longitude": "112.974998474"
+ },
+ {
+   "ID": 235,
+   "Airport": "Dumatumbun Airport",
+   "City": "Langgur-Kei Islands",
+   "Country": "Indonesia",
+   "Code": "LUV",
+   "Latitude": "-5.66162014007568",
+   "Longitude": "132.731002807617"
+ },
+ {
+   "ID": 236,
+   "Airport": "Mali Airport",
+   "City": "Alor Island",
+   "Country": "Indonesia",
+   "Code": "ARD",
+   "Latitude": "-8.13234043121338",
+   "Longitude": "124.59700012207"
+ },
+ {
+   "ID": 237,
+   "Airport": "Belaga Airport",
+   "City": "Belaga",
+   "Country": "Malaysia",
+   "Code": "BLG",
+   "Latitude": "2.65000009537",
+   "Longitude": "113.766998291"
+ },
+ {
+   "ID": 238,
+   "Airport": "Long Lellang Airport",
+   "City": "Long Datih",
+   "Country": "Malaysia",
+   "Code": "LGL",
+   "Latitude": "3.42100000381",
+   "Longitude": "115.153999329"
+ },
+ {
+   "ID": 239,
+   "Airport": "Long Seridan Airport",
+   "City": "Long Seridan",
+   "Country": "Malaysia",
+   "Code": "ODN",
+   "Latitude": "3.96700000762939",
+   "Longitude": "115.050003051758"
+ },
+ {
+   "ID": 240,
+   "Airport": "Mukah Airport",
+   "City": "Mukah",
+   "Country": "Malaysia",
+   "Code": "MKM",
+   "Latitude": "2.90638995170593",
+   "Longitude": "112.080001831055"
+ },
+ {
+   "ID": 241,
+   "Airport": "Bakalalan Airport",
+   "City": "Bakalalan",
+   "Country": "Malaysia",
+   "Code": "BKM",
+   "Latitude": "3.97399997711182",
+   "Longitude": "115.61799621582"
+ },
+ {
+   "ID": 242,
+   "Airport": "Lawas Airport",
+   "City": "Lawas",
+   "Country": "Malaysia",
+   "Code": "LWY",
+   "Latitude": "4.8491702079773",
+   "Longitude": "115.407997131348"
+ },
+ {
+   "ID": 243,
+   "Airport": "Bario Airport",
+   "City": "Bario",
+   "Country": "Malaysia",
+   "Code": "BBN",
+   "Latitude": "3.73389005661011",
+   "Longitude": "115.478996276855"
+ },
+ {
+   "ID": 244,
+   "Airport": "Tomanggong Airport",
+   "City": "Tomanggong",
+   "Country": "Malaysia",
+   "Code": "TMG",
+   "Latitude": "5.40000009536743",
+   "Longitude": "118.650001525879"
+ },
+ {
+   "ID": 245,
+   "Airport": "Kudat Airport",
+   "City": "Kudat",
+   "Country": "Malaysia",
+   "Code": "KUD",
+   "Latitude": "6.9225001335144",
+   "Longitude": "116.835998535156"
+ },
+ {
+   "ID": 246,
+   "Airport": "Radin Inten II (Branti) Airport",
+   "City": "Bandar Lampung-Sumatra Island",
+   "Country": "Indonesia",
+   "Code": "TKG",
+   "Latitude": "-5.240556",
+   "Longitude": "105.175556"
+ },
+ {
+   "ID": 247,
+   "Airport": "Halim Perdanakusuma International Airport",
+   "City": "Jakarta",
+   "Country": "Indonesia",
+   "Code": "HLP",
+   "Latitude": "-6.26661014556885",
+   "Longitude": "106.890998840332"
+ },
+ {
+   "ID": 248,
+   "Airport": "Ranai Airport",
+   "City": "Ranai-Natuna Besar Island",
+   "Country": "Indonesia",
+   "Code": "NTX",
+   "Latitude": "3.90871000289917",
+   "Longitude": "108.388000488281"
+ },
+ {
+   "ID": 249,
+   "Airport": "Pangsuma Airport",
+   "City": "Putussibau-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "PSU",
+   "Latitude": "0.83557802438736",
+   "Longitude": "112.936996459961"
+ },
+ {
+   "ID": 250,
+   "Airport": "Sintang(Susilo) Airport",
+   "City": "Sintang-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "SQG",
+   "Latitude": "0.063619002699852",
+   "Longitude": "111.472999572754"
+ },
+ {
+   "ID": 251,
+   "Airport": "Pendopo Airport",
+   "City": "Talang Gudang-Sumatra Island",
+   "Country": "Indonesia",
+   "Code": "PDO",
+   "Latitude": "-3.2860701084137",
+   "Longitude": "103.879997253418"
+ },
+ {
+   "ID": 252,
+   "Airport": "Malikus Saleh Airport",
+   "City": "Lhok Seumawe-Sumatra Island",
+   "Country": "Indonesia",
+   "Code": "LSW",
+   "Latitude": "5.22667980194092",
+   "Longitude": "96.9503021240234"
+ },
+ {
+   "ID": 253,
+   "Airport": "Pulau Pangkor Airport",
+   "City": "Pangkor Island",
+   "Country": "Malaysia",
+   "Code": "PKG",
+   "Latitude": "4.24471998214722",
+   "Longitude": "100.553001403809"
+ },
+ {
+   "ID": 254,
+   "Airport": "Long Bawan Airport",
+   "City": "Long Bawan-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "LBW",
+   "Latitude": "3.9028",
+   "Longitude": "115.6921"
+ },
+ {
+   "ID": 255,
+   "Airport": "Nunukan Airport",
+   "City": "Nunukan-Nunukan Island",
+   "Country": "Indonesia",
+   "Code": "NNX",
+   "Latitude": "4.13333333333",
+   "Longitude": "117.666666667"
+ },
+ {
+   "ID": 256,
+   "Airport": "Long Apung Airport",
+   "City": "Long Apung-Borneo Island",
+   "Country": "Indonesia",
+   "Code": "LPU",
+   "Latitude": "1.704486",
+   "Longitude": "114.970297"
+ },
+ {
+   "ID": 257,
+   "Airport": "Berkley Structures Heliport",
+   "City": "Pagerungan",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "47.682043",
+   "Longitude": "-122.148456"
+ },
+ {
+   "ID": 258,
+   "Airport": "Gorakhpur Airport",
+   "City": "Gorakhpur",
+   "Country": "India",
+   "Code": "GOP",
+   "Latitude": "26.7397003174",
+   "Longitude": "83.4496994019"
+ },
+ {
+   "ID": 259,
+   "Airport": "Kangra Airport",
+   "City": "Kangra",
+   "Country": "India",
+   "Code": "DHM",
+   "Latitude": "32.1651000976563",
+   "Longitude": "76.2633972167969"
+ },
+ {
+   "ID": 260,
+   "Airport": "Nanded Airport",
+   "City": "Nanded",
+   "Country": "India",
+   "Code": "NDC",
+   "Latitude": "19.1833000183",
+   "Longitude": "77.3167037964"
+ },
+ {
+   "ID": 261,
+   "Airport": "Shimla Airport",
+   "City": "Shimla",
+   "Country": "India",
+   "Code": "SLV",
+   "Latitude": "31.0818",
+   "Longitude": "77.068001"
+ },
+ {
+   "ID": 262,
+   "Airport": "Long Akah Airport",
+   "City": "Long Akah",
+   "Country": "Malaysia",
+   "Code": "LKH",
+   "Latitude": "3.29999995231628",
+   "Longitude": "114.782997131348"
+ },
+ {
+   "ID": 263,
+   "Airport": "Tarempa Airport",
+   "City": "Anambas Islands",
+   "Country": "Indonesia",
+   "Code": "MWK",
+   "Latitude": "3.34811997413635",
+   "Longitude": "106.258003234863"
+ },
+ {
+   "ID": 264,
+   "Airport": "Mysore Airport",
+   "City": "Mysore",
+   "Country": "India",
+   "Code": "MYQ",
+   "Latitude": "12.3072004318237",
+   "Longitude": "76.6496963500977"
+ },
+ {
+   "ID": 265,
+   "Airport": "Fazenda Palmital Airport",
+   "City": "South Aari Atoll",
+   "Country": "Maldives",
+   "Code": "MSI",
+   "Latitude": "-20.6963996887207",
+   "Longitude": "-48.2863998413086"
+ },
+ {
+   "ID": 266,
+   "Airport": "Lombok International Airport",
+   "City": "Praya",
+   "Country": "Indonesia",
+   "Code": "LOP",
+   "Latitude": "-8.757322",
+   "Longitude": "116.276675"
+ },
+ {
+   "ID": 267,
+   "Airport": "Nagaur Airport",
+   "City": "Nagaur",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "27.2082996368408",
+   "Longitude": "73.7114028930664"
+ },
+ {
+   "ID": 268,
+   "Airport": "Nusawiru Airport",
+   "City": "Nusawiru",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-7.72038984298706",
+   "Longitude": "108.48999786377"
+ },
+ {
+   "ID": 269,
+   "Airport": "Tabing Airport",
+   "City": "Padang",
+   "Country": "Indonesia",
+   "Code": "PDG",
+   "Latitude": "-0.874988973141",
+   "Longitude": "100.351997375"
+ },
+ {
+   "ID": 270,
+   "Airport": "Villa Airport",
+   "City": "Maamigili",
+   "Country": "Maldives",
+   "Code": "VAM",
+   "Latitude": "3.47055555556",
+   "Longitude": "72.8358333333"
+ },
+ {
+   "ID": 271,
+   "Airport": "Kooddoo Airport",
+   "City": "Kooddoo",
+   "Country": "Maldives",
+   "Code": "GKK",
+   "Latitude": "0.7324",
+   "Longitude": "73.4336"
+ },
+ {
+   "ID": 272,
+   "Airport": "Maranggo Airport",
+   "City": "Sulawesi Tenggara",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-5.7645702362061",
+   "Longitude": "123.91699981689"
+ },
+ {
+   "ID": 273,
+   "Airport": "Waris Airport",
+   "City": "Waris-Papua Island",
+   "Country": "Indonesia",
+   "Code": "WAR",
+   "Latitude": "-3.235",
+   "Longitude": "140.994"
+ },
+ {
+   "ID": 274,
+   "Airport": "Beringin Airport",
+   "City": "Muara Teweh",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-0.940325021744",
+   "Longitude": "114.893875122"
+ },
+ {
+   "ID": 275,
+   "Airport": "Mulia Airport",
+   "City": "Mulia",
+   "Country": "Indonesia",
+   "Code": "LII",
+   "Latitude": "-3.7018",
+   "Longitude": "137.957"
+ },
+ {
+   "ID": 276,
+   "Airport": "Stenkol Airport",
+   "City": "Bintuni",
+   "Country": "Indonesia",
+   "Code": "NTI",
+   "Latitude": "-2.1033",
+   "Longitude": "133.5164"
+ },
+ {
+   "ID": 277,
+   "Airport": "Wasior Airport",
+   "City": "Wasior",
+   "Country": "Indonesia",
+   "Code": "WSR",
+   "Latitude": "-2.721",
+   "Longitude": "134.5061"
+ },
+ {
+   "ID": 278,
+   "Airport": "Silangit Airport",
+   "City": "Siborong-Borong",
+   "Country": "Indonesia",
+   "Code": "DTB",
+   "Latitude": "2.25973",
+   "Longitude": "98.991898"
+ },
+ {
+   "ID": 279,
+   "Airport": "Lasikin Airport",
+   "City": "Sinabang",
+   "Country": "Indonesia",
+   "Code": "SSV",
+   "Latitude": "2.41027998924255",
+   "Longitude": "96.3255996704102"
+ },
+ {
+   "ID": 280,
+   "Airport": "Seunagan Airport",
+   "City": "Nagan Raya",
+   "Country": "Indonesia",
+   "Code": "MEQ",
+   "Latitude": "4.25",
+   "Longitude": "96.2170028686523"
+ },
+ {
+   "ID": 281,
+   "Airport": "Betoambari Airport",
+   "City": "Bau-Bau",
+   "Country": "Indonesia",
+   "Code": "BUW",
+   "Latitude": "-5.48687982559204",
+   "Longitude": "122.569000244141"
+ },
+ {
+   "ID": 282,
+   "Airport": "Kao Airport",
+   "City": "Kao",
+   "Country": "Indonesia",
+   "Code": "KAZ",
+   "Latitude": "1.1852799654007",
+   "Longitude": "127.896003723145"
+ },
+ {
+   "ID": 283,
+   "Airport": "Melangguane Airport",
+   "City": "Melonguane",
+   "Country": "Indonesia",
+   "Code": "MNA",
+   "Latitude": "4.00693988800049",
+   "Longitude": "126.672996520996"
+ },
+ {
+   "ID": 284,
+   "Airport": "Sanggata/Sangkimah Airport",
+   "City": "Sanggata",
+   "Country": "Indonesia",
+   "Code": "SGQ",
+   "Latitude": "0.3847",
+   "Longitude": "117.543"
+ },
+ {
+   "ID": 285,
+   "Airport": "Muara Bungo Airport",
+   "City": "Muara Bungo",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-1.1278",
+   "Longitude": "102.135"
+ },
+ {
+   "ID": 286,
+   "Airport": "Selayar/Aroepala Airport",
+   "City": "Selayar",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-6.1751",
+   "Longitude": "120.4362"
+ },
+ {
+   "ID": 287,
+   "Airport": "Illaga Airport",
+   "City": "Illaga",
+   "Country": "Indonesia",
+   "Code": null,
+   "Latitude": "-3.97648",
+   "Longitude": "137.6225"
+ },
+ {
+   "ID": 288,
+   "Airport": "Oksibil Airport",
+   "City": "Oksibil",
+   "Country": "Indonesia",
+   "Code": "OKL",
+   "Latitude": "-4.9071",
+   "Longitude": "140.6277"
+ },
+ {
+   "ID": 289,
+   "Airport": "Kokonau Airport",
+   "City": "Kokonau",
+   "Country": "Indonesia",
+   "Code": "KOX",
+   "Latitude": "-4.71075",
+   "Longitude": "136.43515"
+ },
+ {
+   "ID": 290,
+   "Airport": "Kualanamu International Airport",
+   "City": "Medan",
+   "Country": "Indonesia",
+   "Code": "KNO",
+   "Latitude": "3.642222",
+   "Longitude": "98.885278"
+ },
+ {
+   "ID": 291,
+   "Airport": "Pasighat Airport",
+   "City": "Pasighat",
+   "Country": "India",
+   "Code": "IXT",
+   "Latitude": "28.0660991668701",
+   "Longitude": "95.3356018066406"
+ },
+ {
+   "ID": 292,
+   "Airport": "HAL Airport",
+   "City": "Bangalore",
+   "Country": "India",
+   "Code": null,
+   "Latitude": "12.9499998093",
+   "Longitude": "77.6681976318"
+ },
+ {
+   "ID": 293,
+   "Airport": "Dharavandhoo Airport",
+   "City": "DHARAVANDHOO",
+   "Country": "Maldives",
+   "Code": "DRV",
+   "Latitude": "5.1561",
+   "Longitude": "73.1302"
+ },
+ {
+   "ID": 294,
+   "Airport": "Saumlaki/Olilit Airport",
+   "City": "Saumlaki",
+   "Country": "Indonesia",
+   "Code": "SXK",
+   "Latitude": "-7.9886097908",
+   "Longitude": "131.305999756"
+ },
+ {
+   "ID": 295,
+   "Airport": "Dewadaru - Kemujan Island",
+   "City": "Karimunjawa",
+   "Country": "Indonesia",
+   "Code": "KWB",
+   "Latitude": "-5.80091",
+   "Longitude": "110.47838"
+ },
+ {
+   "ID": 296,
+   "Airport": "Thimarafushi Airport",
+   "City": "Thimarafushi",
+   "Country": "Maldives",
+   "Code": "TMF",
+   "Latitude": "2.211",
+   "Longitude": "73.1533"
+ },
+ {
+   "ID": 297,
+   "Airport": "Ifuru Airport",
+   "City": "Ifuru",
+   "Country": "Maldives",
+   "Code": "IFU",
+   "Latitude": "5.7083",
+   "Longitude": "73.025"
+ },
+ {
+   "ID": 298,
+   "Airport": "Sultan Bantilan Airport",
+   "City": "Toli-Toli",
+   "Country": "Indonesia",
+   "Code": "TLI",
+   "Latitude": "1.123428",
+   "Longitude": "120.793658"
+ },
+ {
+   "ID": 299,
+   "Airport": "Ratnagiri Airport",
+   "City": "",
+   "Country": "India",
+   "Code": "RTC",
+   "Latitude": "17.013599395752",
+   "Longitude": "73.3277969360352"
+ },
+ {
+   "ID": 300,
+   "Airport": "Kazi Nazrul Islam Airport",
+   "City": "Durgapur",
+   "Country": "India",
+   "Code": "RDP",
+   "Latitude": "23.6225",
+   "Longitude": "87.243"
+ },
+ {
+   "ID": 301,
+   "Airport": "Sri Sathya Sai Airport",
+   "City": "Puttaparthi",
+   "Country": "India",
+   "Code": "PUT",
+   "Latitude": "14.1492996216",
+   "Longitude": "77.7910995483"
+ }
+]

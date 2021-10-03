@@ -15,7 +15,7 @@ function Home() {
      
       <Navbar />
  
-      <div style={{position:'relative',top:'-380px'}}>
+      <div style={{position:'relative',top:'-380px', marginLeft:"6%"}}>
       <Aeroplane/>
       </div>
       
