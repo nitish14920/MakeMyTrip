@@ -30,7 +30,7 @@ function Header() {
                     </div>
                 </div>
                 
-                <div style={{marginRight:'-70px'}} >
+                <div style={{marginRight:'-70px', marginTop:"-6%"}} >
                     <Login />
                 </div>
                 <div >
