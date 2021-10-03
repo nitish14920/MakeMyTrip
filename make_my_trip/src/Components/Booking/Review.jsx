@@ -1,4 +1,5 @@
 import { ReviewMainDiv } from "./ReviewStyles"
+import { Link } from "react-router-dom"
 import { BookingFlightDetails } from "./BookingFlightDetails"
 export function Review(){
 
@@ -141,7 +142,7 @@ export function Review(){
                 <a href="">VIEW POLICY</a>
             </div>
 
-            <div className="continue">Continue</div>
+           <Link to="/booking"><div className="continue">Continue</div></Link> 
         </ReviewMainDiv>
     )
 }
