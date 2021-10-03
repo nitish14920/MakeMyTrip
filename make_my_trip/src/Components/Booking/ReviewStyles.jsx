@@ -253,7 +253,7 @@ height: 100vh;
     & :nth-child(3){
         display: flex;
         & :first-child{
-            margin-right: 120px;
+            margin-right: 115px;
         }
     }
     &> :nth-child(1){
@@ -279,7 +279,7 @@ height: 100vh;
             margin: 10px;
         }
         & :first-child{
-            margin-right: 100px;
+            margin-right: 95px;
         }
     }
     &>:nth-child(3){
@@ -308,6 +308,8 @@ height: 100vh;
     }
     & > div p{
         font-size: 13px;
+        width: 250px;
+        height: 50px;
     }
     & >div >span{
         margin-top: 20px;

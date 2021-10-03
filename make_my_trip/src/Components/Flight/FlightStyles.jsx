@@ -5,6 +5,14 @@ height: 150vh;
 width: 100%;
 background-color: #e5eef4;
 font-family: 'Lato',sans-serif;
+&  .vista{
+    width:20px;
+    height:17px;
+    background-Color:white;
+    position:relative;
+    top:178px;
+    left:1px;
+}
 `
 export const InputDIv = styled.div`
 height: 5vh;
@@ -142,6 +150,7 @@ top: 15%;
 right:8%;
 &> h2{
     color: white;
+    margin-left: 0px;
 }
 & .add ,.dateWindow{
     height: 50px;

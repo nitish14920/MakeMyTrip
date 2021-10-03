@@ -2,13 +2,20 @@ import { ReviewMainDiv } from "./ReviewStyles"
 import { BookingFlightDetails } from "./BookingFlightDetails"
 export function Review(){
 
-    const FlightDetails = {
+    const FlightDetails =[ {
         time:"21:03",
         date:"Fri, 1 Oct 21",
         place:"New Delhi",
         airportName:"Indira Gandhi International Airport",
         terminal:"Terminal 2"
-    }
+    },
+    {
+        time:"02:05",
+        date:"Sat, 2 Oct 21",
+        place:"Bengaluru",
+        airportName:"Bengaluru International Airport",
+        terminal:"Terminal 1"
+    }]
     return (
 
         <ReviewMainDiv>
@@ -36,9 +43,9 @@ export function Review(){
                         <h4>Go First</h4>
                         <span>G8-119</span>
                     </div>
-                    <BookingFlightDetails data={FlightDetails}/>
+                    <BookingFlightDetails data={FlightDetails[0]}/>
                     <div className="raw2-div2">2 hrs 35 mins</div>
-                    <BookingFlightDetails data={FlightDetails}/>
+                    <BookingFlightDetails data={FlightDetails[1]}/>
                     <div className="raw2-div1" style={{marginRight:"50px"}}>
                         <h4>Fare Type</h4>
                         <span>GoFirst</span>
@@ -111,15 +118,15 @@ export function Review(){
                 <div>
                     <h3>Base Fare</h3>
                     <p>Adult(s)(1X 6623)</p>
-                    <h3 className="basefareprice">7422</h3>
+                    <h3 className="basefareprice">&#x20b9;7422</h3>
                 </div>
                 <div>
                     <h3>Fee & Surcharge</h3>
-                    <h3>7422</h3>
+                    <h3>&#x20b9; 7422</h3>
                 </div>
                 <div>
                     <h2>Total Amount</h2> 
-                    <h2>7422</h2>    
+                    <h2>&#x20b9; 7422</h2>    
                 </div>
             </div>
             <div className="cancellation">
@@ -129,10 +136,11 @@ export function Review(){
                         <h6>Cancellation Fees Apply</h6>
                         <p>A penalty of upto 3800 will be charged by the airline & by MMT based on how close to the departure date you cancel.</p>
                     </div>
-                    <span>3622</span>
+                    <span> &#x20b9; 3622</span>
                 </div>
                 <a href="">VIEW POLICY</a>
             </div>
+
             <div className="continue">Continue</div>
         </ReviewMainDiv>
     )
