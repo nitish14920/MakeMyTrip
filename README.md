@@ -18,12 +18,14 @@
   <li>mongoose</li>
   </ul>
 <h1>Features built</h1>
-Implemented dynamic search bar on the home page for searching Flights location
-Realtime details of the flight fetched from MongoDB
-Filters functionality for Flight page on the basis of time stops and availability, Flight Company
-Signup/Login functionality by using MongoDB
-Payment Page for Flight Booking
-Details Page of the User for Flight Booking
+<ul>
+  <li>Implemented dynamic search bar on the home page for searching Flights location</li>
+  <li>Realtime details of the flight fetched from MongoDB</li>
+<li>Filters functionality for Flight page on the basis of time stops and availability, Flight Company</li>
+  <li>Signup/Login functionality by using MongoDB</li>
+  <li>Payment Page for Flight Booking</li>
+  <li>Details Page of the User for Flight Booking</li>
+  </ul>
 <h1>Team Members</h1>
 <ul>
   <li>
@@ -36,11 +38,13 @@ Sarvesh Kumar Sharma
   <li>Hema Shyamala R</li>
   </ul>
 <h1>How to use our app?</h1>
-Install git on your machine
-Clone our repository by running the command git clone
-https://github.com/nitish14920/MakeMyTrip
-Change directory to MakeMyTrip by running cd MakeMyTrip
-And then run the following commands
-npm install
-npm start
+<ul>
+  <li>Install git on your machine</li>
+  <li>Clone our repository by running the command git clone
+https://github.com/nitish14920/MakeMyTrip</li>
+  <li>Change directory to MakeMyTrip by running cd MakeMyTrip</li>
+  <li>And then run the following commands</li>
+  <li>npm install</li>
+  <li>npm start</li>
+  </ul>
 
