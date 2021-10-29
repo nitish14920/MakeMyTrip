@@ -1,4 +1,8 @@
 # MakeMytrip
+<h1>MakeMyTrip</h1>
+<p>
+  <img src="https://miro.medium.com/max/1750/1*UXnbTdLLe5KbqdIesJ_19Q.png"/>
+</p>
 <h1>Technologies used</h1>
 <ul>
   
