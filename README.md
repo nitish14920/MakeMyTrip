@@ -39,7 +39,7 @@ Sarvesh Kumar Sharma
 Install git on your machine
 Clone our repository by running the command git clone
 https://github.com/nitish14920/MakeMyTrip
-Change directory to Internshala by running cd MakeMyTrip
+Change directory to MakeMyTrip by running cd MakeMyTrip
 And then run the following commands
 npm install
 npm start
