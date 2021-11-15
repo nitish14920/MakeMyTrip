@@ -19,17 +19,17 @@ MakeMyTrip is an Indian online travel company founded in 2000. Headquartered in 
 <li>MongoAtlas</li>
 <li>Express</li>
 <li>MongoDB</li>
-  <li>mongoose</li>
-  </ul>
+<li>mongoose</li>
+</ul>
 <h1>Features built</h1>
  <ul>
   <li>Implemented dynamic search bar on the home page for searching Flights location</li>
   <li>Realtime details of the flight fetched from MongoDB</li>
-<li>Filters functionality for Flight page on the basis of time stops and availability, Flight Company</li>
+  <li>Filters functionality for Flight page on the basis of time stops and availability, Flight Company</li>
   <li>Signup/Login functionality by using MongoDB</li>
   <li>Payment Page for Flight Booking</li>
   <li>Details Page of the User for Flight Booking</li>
-  <ul>
+<ul>
 
 <h1>Team Members</h1>
 <ul>
