@@ -40,17 +40,14 @@ MakeMyTrip is an Indian online travel company founded in 2000. Headquartered in 
 <li>Amarjeet kumar</li>
 <li> Vipul Soni</li>
 <li>Anurag</li>  
-  
- 
-  </ul>
+</ul>
 <h1>How to use our app?</h1>
 <ul>
-  <li>Install git on your machine</li>
-  <li>Clone our repository by running the command git clone
-
-  <li>Change directory to MakeMyTrip by running cd MakeMyTrip</li>
-  <li>And then run the following commands</li>
-  <li>npm install</li>
-  <li>npm start</li>
+<li>Install git on your machine</li>
+ <li>Clone our repository by running the command git clone</li>
+<li>Change directory to MakeMyTrip by running cd MakeMyTrip</li>
+<li>And then run the following commands</li>
+<li>npm install</li>
+<li>npm start</li>
   </ul>
 
