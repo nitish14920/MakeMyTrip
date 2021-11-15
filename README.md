@@ -8,11 +8,10 @@ MakeMyTrip is an Indian online travel company founded in 2000. Headquartered in 
 </h3>
 <h1>Technologies used</h1>
 <ul>
-  
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>MongoDb</li>
+<li>React.js</li>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>MongoDb</li>
 <li>CSS</li>
   <li>JAVASCRIPT</li>
   </ul>
