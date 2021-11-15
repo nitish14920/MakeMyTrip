@@ -35,14 +35,12 @@ MakeMyTrip is an Indian online travel company founded in 2000. Headquartered in 
 
 <h1>Team Members</h1>
 <ul>
-  <li>
-Sarvesh Kumar Sharma
-  </li>
-   <li>Hardik Thummar</li>
+<li>Sarvesh Kumar Sharma</li>
+<li>Hardik Thummar</li>
+<li>Amarjeet kumar</li>
+<li> Vipul Soni</li>
+<li>Anurag</li>  
   
-  <li>Amarjeet kumar</li>
-  <li> Vipul Soni</li>
-  <li>Anurag</li>
  
   </ul>
 <h1>How to use our app?</h1>
