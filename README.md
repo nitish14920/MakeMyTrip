@@ -3,8 +3,6 @@
 <h3>
 MakeMyTrip is an Indian online travel company founded in 2000. Headquartered in Gurugram, Haryana, the company provides online travel services including flight tickets, domestic and international holiday packages, hotel reservations, rail, and bus tickets.
  <br/>
-
-
 </h3>
 <h1>Technologies used</h1>
 <ul>
