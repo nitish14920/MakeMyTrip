@@ -11,7 +11,7 @@ MakeMyTrip is an Indian online travel company founded in 2000. Headquartered in 
  1.You can Search the Flights According to the Arrival and Destination
  <div> <img src="https://miro.medium.com/max/1750/1*UXnbTdLLe5KbqdIesJ_19Q.png" /> </div>
  <li></li>
- 2. Login Page Of the MakeMyTrip
+ Login Page Of the MakeMyTrip
  You can log in With Google or Mobile Number Or email.
  <div><img src="https://miro.medium.com/max/1750/1*p_TBaLD5LCTEm_6cHXy3HQ.png" /> </div>
 <h1>Technologies used</h1>
